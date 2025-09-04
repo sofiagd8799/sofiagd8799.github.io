@@ -1,3 +1,11 @@
+---
+layout: single
+title: "Hello there!"
+permalink: /
+sidebar:
+  nav: "main"
+---
+
 <img src="foto_rf.jpeg" alt="Profile picture" width="250">
 
 # Hello there! ¡Hola a todos! 
