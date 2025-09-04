@@ -18,3 +18,13 @@ minimal_mistakes_skin: "default"
 markdown: kramdown
 kramdown:
   input: GFM
+
+  # Apply the sidebar to all pages by default
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      sidebar:
+        nav: "main"
