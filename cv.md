@@ -1,7 +1,7 @@
 ---
 layout: single
 title: CV
-permalink: /
+permalink: /CV/
 sidebar:
   nav: main
 ---
