@@ -3,7 +3,7 @@ layout: single
 title: "Hello there!"
 permalink: /
 sidebar:
-  nav: "main"
+  nav: main
 ---
 
 <img src="foto_rf.jpeg" alt="Profile picture" width="250">
