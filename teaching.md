@@ -1,7 +1,7 @@
 ---
 layout: single
-title: teaching
-permalink: /
+title: "Teaching"
+permalink: /teaching/
 sidebar:
   nav: main
 ---
