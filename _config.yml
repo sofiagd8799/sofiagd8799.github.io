@@ -1,9 +1,9 @@
 # Site settings
-title: "Your Name"
-email: "you@example.com"
+title: "Sofía García Durrer"
+email: "s.garcia-durrer@phd.hertie-school.org"
 description: "Your professional/research website"
 baseurl: "" # leave blank for username.github.io
-url: "https://yourusername.github.io"
+url: "https://sofiagd8799.github.io"
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -11,22 +11,20 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # Author settings
 author:
   name: "Your Name"
-  avatar: "/images/profile.jpg"  # put your profile pic in /images/
+  avatar: "foto_rf.jpg"  # put your profile pic in /images/
   bio: "Short bio goes here"
-  location: "City, Country"
+  location: "Berlin, Germany/Bogotá, Colombia"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:you@example.com"
+      url: "mailto:s.garcia-durrer@phd.hertie-school.org"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/sofiagd8799"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/yourusername"
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: "https://twitter.com/yourusername"
+      url: "https://linkedin.com/in/sofia-garcia-durrer"
+
 
 # Navigation menu (top bar)
 header_pages:
