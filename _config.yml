@@ -4,15 +4,17 @@ description: "Your professional/research website"
 baseurl: "" # leave blank for username.github.io
 url: "https://sofiagd8799.github.io"
 
-# Theme
+# Use Minimal Mistakes
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-# Plugins (required for Minimal Mistakes)
+# Plugins allowed on GitHub Pages
 plugins:
-  - jekyll-feed
+  - jekyll-include-cache
   - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-sitemap
+  - jekyll-feed
 
-# Minimal Mistakes settings
-minimal_mistakes_skin: "default"  # you can try "air", "dark", "contrast", etc.
+# (Optional, but nice)
+minimal_mistakes_skin: "default"
+markdown: kramdown
+kramdown:
+  input: GFM
