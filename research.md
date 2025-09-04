@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "research"
-permalink: /
+title: "Research"
+permalink: /research/
 sidebar:
   nav: main
 ---
