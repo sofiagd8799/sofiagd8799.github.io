@@ -1,9 +1,9 @@
 ---
 layout: single
-title: Research
-permalink: /research/
-sidebar: 
-  nav:"main"
+title: "research"
+permalink: /
+sidebar:
+  nav: main
 ---
 
 # Research
