@@ -1,6 +1,46 @@
-# Navigation links
+# Site settings
+title: "Your Name"
+email: "you@example.com"
+description: "Your professional/research website"
+baseurl: "" # leave blank for username.github.io
+url: "https://yourusername.github.io"
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Author settings
+author:
+  name: "Your Name"
+  avatar: "/images/profile.jpg"  # put your profile pic in /images/
+  bio: "Short bio goes here"
+  location: "City, Country"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:you@example.com"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/yourusername"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/yourusername"
+
+# Navigation menu (top bar)
 header_pages:
   - research.md
   - teaching.md
   - cv.md
 
+# Plugins (required for Minimal Mistakes)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: "default"  # you can try "air", "dark", "contrast", etc.
+paginate: 5
