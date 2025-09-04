@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Hello there! ¡Hola a todos! 
+title: About me
 permalink: /
 sidebar:
   nav: main
