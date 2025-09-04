@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: single
 title: Research
 permalink: /research/
+sidebar: 
+  nav:"main"
 ---
 
 # Research
