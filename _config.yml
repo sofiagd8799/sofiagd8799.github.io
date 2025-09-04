@@ -27,10 +27,18 @@ author:
 
 
 # Navigation menu (top bar)
-header_pages:
-  - research.md
-  - teaching.md
-  - cv.md
+main:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /cv/
+  - title: "Contact"
+    url: /contact/
+
 
 # Plugins (required for Minimal Mistakes)
 plugins:
