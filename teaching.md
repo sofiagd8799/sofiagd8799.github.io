@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Hello there!"
+title: teaching
 permalink: /
 sidebar:
   nav: main
