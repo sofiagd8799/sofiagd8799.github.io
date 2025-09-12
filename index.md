@@ -7,7 +7,7 @@ sidebar:
 ---
 
 <div style="text-align: center;">
-  <img src="foto_rf.jpeg" alt="Profile picture" width="250" style="border-radius: 15px;">
+  <img src="foto_rf.jpeg" alt="Profile picture" width="280" style="border-radius: 15px;">
 </div>
 
 
