@@ -10,7 +10,6 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # Plugins allowed on GitHub Pages
 plugins:
   - jekyll-include-cache
-  - jekyll-seo-tag
   - jekyll-feed
 
 # (Optional, but nice)
