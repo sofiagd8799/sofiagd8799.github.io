@@ -1,0 +1,12 @@
+---
+# Only front matter needed
+---
+
+@import "minimal-mistakes/skins/air"; // or whatever skin you use
+@import "minimal-mistakes";
+
+// your overrides here
+.page__content p {
+  line-height: 1.75;
+  margin-bottom: 0.9rem;
+}
