@@ -20,7 +20,7 @@ My research sits at the intersection of international development, gender and (m
 
 I am Colombian–Swiss and have been based in Germany since the age of 17. Currently living in Berlin, I focus my research interests on Europe and Latin America. Feel free to [get in touch](mailto:s.garcia-durrer@phd.hertie-school.org) if you’d like to connect or explore potential collaborations. I am particularly interested in projects at the intersection of academic research and policy implementation or evaluation, and I would be glad to contribute or share insights from my (upcoming) research on initiatives with a strong practical application.
 
-Outside of work, I’m passionate about photography: portraits, street life, and landscapes are my main focus. I often combine photography with hiking, chasing the kinds of views that make the effort worthwhile. I also love reading, and, inspired by some of my colleagues, I share reflections on both photography and books here(/hobbies/).
+Outside of work, I’m passionate about photography: portraits, street life, and landscapes are my main focus. I often combine photography with hiking, chasing the kinds of views that make the effort worthwhile. I also love reading, and, inspired by some of my colleagues, I share reflections on both photography and books [here](/hobbies/).
 
 ---
 
