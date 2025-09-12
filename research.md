@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Research"
+title: "Research and Projects"
 permalink: /research/
 sidebar:
   nav: main
