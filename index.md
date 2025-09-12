@@ -6,7 +6,8 @@ sidebar:
   nav: main
 ---
 
-<img src="foto_rf.jpeg" alt="Profile picture" width="250">
+<img src="foto_rf.jpeg" alt="Profile picture" width="250"> <img src="1741211441255.jpeg" alt="Profile picture" width="250">
+
 
 I am a **Ph.D. candidate** at the Research Training Group [*The Dynamics of Demography, Democratic Processes and Public Policy (DYNAMICS)*](https://www.sowi.hu-berlin.de/en/dynamics), coordinated by the Department of Social Sciences at [**Humboldt-Universität zu Berlin**](https://www.hu-berlin.de/en) and the [**Hertie School**](https://www.hertie-school.org/), and funded by the [**German Research Foundation (DFG)**](https://www.dfg.de/en). 
 
