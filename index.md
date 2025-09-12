@@ -11,6 +11,7 @@ sidebar:
 </div>
 
 <div style="text-align: justify;">
+  
 I am a **Ph.D. candidate** at the Research Training Group [*The Dynamics of Demography, Democratic Processes and Public Policy (DYNAMICS)*](https://www.sowi.hu-berlin.de/en/dynamics), coordinated by the Department of Social Sciences at [**Humboldt-Universität zu Berlin**](https://www.hu-berlin.de/en) and the [**Hertie School**](https://www.hertie-school.org/), and funded by the [**German Research Foundation (DFG)**](https://www.dfg.de/en). 
 
 My research sits at the intersection of international development, gender and (micro-)economics, social and family policy, and computational social science. I focus on the care economy and the ways in which public policies shape family dynamics and the division of labor within households. In particular, I apply a wide range of quantitative methods to examine how the division of labor between partners shapes relationship outcomes and how policies can mitigate or exacerbate these dynamics by influencing couples’ decisions about care, employment, and family life. My main PhD supervisor is [Prof. Dr. Michaela Kreyenfeld](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/kreyenfeld) affiliated at the [Hertie School](https://www.hertie-school.org/) in Berlin. 
