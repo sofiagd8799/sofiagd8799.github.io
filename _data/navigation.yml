@@ -1,11 +1,14 @@
 main:
   - title: "Home"
     url: /
-  - title: "Research"
+  - title: "Research and Project"
     url: /research/
+  - title: "Additional engagements"
+    url: /engagements/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
     url: /cv/
   - title: "Hobbies"
     url: /hobbies/
+  
