@@ -17,8 +17,6 @@ I am interested in **[your main research areas]**, with a focus on:
 
 ## Publications
 
-- **YourLastName, A.** (Year). *Title of Paper*. Journal Name. [Link or DOI](https://example.com)
-- **YourLastName, A. & Coauthor, B.** (Year). *Another Paper*. Conference Name. [Link](https://example.com)
 
 ---
 
