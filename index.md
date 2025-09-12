@@ -23,9 +23,11 @@ Outside of work, I’m passionate about photography: portraits, street life, and
 
 ## Education
 
-- Master in Public Policy with an emphasis on Policy Analysis, [Hertie School] (2025) Final grade: 1.6
-- BSc. in Economics, [University of Mannheim] (2023) 
-- BA in Political Science and Sociology (minor), [University of Mannheim] (2020)
+- Master in Public Policy with an emphasis on Policy Analysis, [Hertie School, Germany] (2025) Final grade: 1.6
+- Exchange Semester, [Stockholm School of Economics, Sweden] (2024)
+- BSc. in Economics, [University of Mannheim, Germany] (2023) 
+- BA in Political Science and Sociology (minor), [University of Mannheim, Germany] (2020)
+- Exchange Semester, [Universitat Pompeu Fabra, Barcelona] (2019)
 
 ---
 
