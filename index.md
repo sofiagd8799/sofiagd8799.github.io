@@ -6,9 +6,11 @@ sidebar:
   nav: main
 ---
 
-<img src="foto_rf.jpeg" alt="Profile picture" width="250"> <img src="1741211441255.jpeg" alt="Profile picture" width="250">
+<div style="text-align: center;">
+  <img src="foto_rf.jpeg" alt="Profile picture" width="250" style="border-radius: 15px;">
+</div>
 
-
+<div style="text-align: justify;">
 I am a **Ph.D. candidate** at the Research Training Group [*The Dynamics of Demography, Democratic Processes and Public Policy (DYNAMICS)*](https://www.sowi.hu-berlin.de/en/dynamics), coordinated by the Department of Social Sciences at [**Humboldt-Universität zu Berlin**](https://www.hu-berlin.de/en) and the [**Hertie School**](https://www.hertie-school.org/), and funded by the [**German Research Foundation (DFG)**](https://www.dfg.de/en). 
 
 My research sits at the intersection of international development, gender and (micro-)economics, social and family policy, and computational social science. I focus on the care economy and the ways in which public policies shape family dynamics and the division of labor within households. In particular, I apply a wide range of quantitative methods to examine how the division of labor between partners shapes relationship outcomes and how policies can mitigate or exacerbate these dynamics by influencing couples’ decisions about care, employment, and family life. My main PhD supervisor is [Prof. Dr. Michaela Kreyenfeld](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/kreyenfeld) affiliated at the [Hertie School](https://www.hertie-school.org/) in Berlin. 
@@ -17,6 +19,8 @@ I am Colombian–Swiss and have been based in Germany since the age of 17. Curre
 
 Outside of work, I’m passionate about photography — portraits, street life, and landscapes are my main focus. I often combine photography with hiking, chasing the kinds of views that make the effort worthwhile. I also love reading, and, inspired by some of my colleagues, I share reflections on both photography and books here.
 
+
+</div>
 ---
 
 ## Education
