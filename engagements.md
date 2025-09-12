@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Additional projects and engagements"
+title: "Additional engagements"
 permalink: /engagements/
 sidebar:
   nav: main
