@@ -2,7 +2,7 @@
 layout: single
 title: About me
 permalink: /
-nav:main
+nav: main
 author_profile: false
 toc: false
 ---
