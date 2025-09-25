@@ -12,5 +12,11 @@ plugins:
   - jekyll-include-cache
   - jekyll-feed
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      author_profile: false
+
 
 
