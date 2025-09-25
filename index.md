@@ -7,9 +7,7 @@ toc: false
 ---
 
 
-<div style="text-align: center;">
-  <img src="1741211441255.jpeg" alt="Profile picture" width="280" style="border-radius: 15px;">
-</div>
+<img src="1741211441255.jpeg" alt="Profile picture" class="profile-left">
 
 
 ---
