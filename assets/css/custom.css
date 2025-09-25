@@ -1,9 +1,9 @@
 /* Smaller base text across the site */
 html { font-size: 15px; }   /* default is ~16px */
-body { line-height: 1.6; }
+body { line-height: 1.6; background: pink }
 
 /* Tweak headings a touch smaller too (optional) */
-h1 { font-size: 1.8rem; }
+h1 { font-size: 1.6rem; }
 h2 { font-size: 1.4rem; }
 h3 { font-size: 1.2rem; }
 
@@ -20,6 +20,3 @@ h3 { font-size: 1.2rem; }
 .site-footer { color: #666; }
 
 
-body {
-  background: pink !important;
-}
