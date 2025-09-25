@@ -3,6 +3,7 @@ layout: single
 title: About me
 permalink: /
   nav: main
+  
 ---
 
 <div style="text-align: center;">
