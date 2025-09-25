@@ -12,8 +12,5 @@ plugins:
   - jekyll-include-cache
   - jekyll-feed
 
-# _config.yml
-<link rel="stylesheet" href="/assets/css/custom.css">
-
 
 
