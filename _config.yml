@@ -13,7 +13,11 @@ plugins:
   - jekyll-feed
 
 # (Optional, but nice)
-minimal_mistakes_skin: "default"
+# in _config.yml
+minimal_mistakes_skin: light
+# After the default CSS, include your file
+extra_css:
+  - /assets/css/custom.css
 markdown: kramdown
 kramdown:
   input: GFM
