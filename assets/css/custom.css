@@ -1,12 +1,20 @@
----
-# Only front matter needed
----
+body {
+  font-size: 0.9rem;    /* make all body text a bit smaller */
+  line-height: 1.6;     /* spacing between lines */
+}
 
-@import "minimal-mistakes/skins/air"; // or whatever skin you use
-@import "minimal-mistakes";
+h1, h2, h3, h4 {
+  color: #2a4d69;        /* change heading color */
+}
 
-// your overrides here
-.page__content p {
-  line-height: 1.75;
-  margin-bottom: 0.9rem;
+a {
+  color: #d67100;        /* link color */
+}
+
+a:hover {
+  color: #c54d00;
+}
+
+.site-footer {
+  color: #777;           /* lighter footer text */
 }
