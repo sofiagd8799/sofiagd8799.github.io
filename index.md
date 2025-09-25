@@ -2,7 +2,7 @@
 layout: single
 title: About me
 permalink: /
-sidebar:
+sidebar: false
   nav: main
 ---
 
