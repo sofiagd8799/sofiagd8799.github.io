@@ -13,6 +13,7 @@ plugins:
   - jekyll-feed
 
 # _config.yml
-site_theme: air   # or "default"
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 
 
