@@ -7,8 +7,11 @@ toc: false
 ---
 
 
-<img src="1741211441255.jpeg" alt="Profile picture" class="profile-left">
-
+<div class="about-wrap">
+  <div class="about-photo">
+    <img src="1741211441255.jpeg" alt="Profile picture">
+  </div>
+  <div class="about-text">
 
 ---
 
@@ -50,7 +53,8 @@ My research sits at the intersection of international development, gender and (m
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sofia-garcia-durrer/)
 [![GitHub followers](https://img.shields.io/github/followers/yourname?style=social)](https://github.com/sofiagd8799)
 
-
+ </div>
+</div>
 
 © 2025 Sofía García Durrer, Powered by **Jekyll** & **AcademicPages**, a fork of **Minimal Mistakes**.  
 *Site last updated 2025-09*
