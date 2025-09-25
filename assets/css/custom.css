@@ -1,22 +1,24 @@
-/* Smaller base text across the site */
-html { font-size: 15px; }   /* default is ~16px */
-body { line-height: 1.6; }
-
-/* Tweak headings a touch smaller too (optional) */
-h1 { font-size: 1.6rem; }
-h2 { font-size: 1.4rem; }
-h3 { font-size: 1.2rem; }
-
-/* AcademicPages exposes CSS variables you can override */
-:root {
-  --global-text-color: #222;           /* body text */
-  --global-link-color: #2a4d69;        /* link color */
-  --global-link-color-hover: #1e3750;  /* link hover */
-  --global-masthead-link-color: #2a4d69; /* nav links */
+/* Profile image floated left with responsive fallback */
+img.profile-left {
+  float: left;
+  width: 280px;             /* adjust as you like */
+  margin: 0 1.25rem 1rem 0; /* space to the right/bottom */
+  border-radius: 15px;
 }
 
-/* Optional: page title + footer subtlety */
-.page__title, .site-title a { color: var(--global-link-color); }
-.site-footer { color: #666; }
+/* Ensure major sections start below the floated image */
+.page__content h2,
+.page__content h3,
+.page__content hr {
+  clear: both;
+}
 
-
+/* On small screens, stop floating and center the image */
+@media (max-width: 700px) {
+  img.profile-left {
+    float: none;
+    display: block;
+    margin: 0 auto 1rem;
+    width: 220px;           /* smaller on mobile */
+  }
+}
