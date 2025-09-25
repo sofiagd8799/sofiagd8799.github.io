@@ -18,3 +18,8 @@ h3 { font-size: 1.2rem; }
 /* Optional: page title + footer subtlety */
 .page__title, .site-title a { color: var(--global-link-color); }
 .site-footer { color: #666; }
+
+
+body {
+  background: pink !important;
+}
