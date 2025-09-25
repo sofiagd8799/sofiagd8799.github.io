@@ -2,15 +2,12 @@
 layout: single
 title: About me
 permalink: /
+nav:main
 author_profile: false
 toc: false
 ---
 
-
-<div class="about-wrap">
-  <div class="about-photo">
-    <img src="1741211441255.jpeg" alt="Profile picture">
-  </div>
+<div style="text-align: center;"> <img src="1741211441255.jpeg" alt="Profile picture" width="280" style="border-radius: 15px;"> </div>
 
 ---
 
