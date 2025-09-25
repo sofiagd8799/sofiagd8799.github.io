@@ -1,20 +1,20 @@
-body {
-  font-size: 0.9rem;    /* make all body text a bit smaller */
-  line-height: 1.6;     /* spacing between lines */
+/* Smaller base text across the site */
+html { font-size: 15px; }   /* default is ~16px */
+body { line-height: 1.6; }
+
+/* Tweak headings a touch smaller too (optional) */
+h1 { font-size: 1.8rem; }
+h2 { font-size: 1.4rem; }
+h3 { font-size: 1.2rem; }
+
+/* AcademicPages exposes CSS variables you can override */
+:root {
+  --global-text-color: #222;           /* body text */
+  --global-link-color: #2a4d69;        /* link color */
+  --global-link-color-hover: #1e3750;  /* link hover */
+  --global-masthead-link-color: #2a4d69; /* nav links */
 }
 
-h1, h2, h3, h4 {
-  color: #2a4d69;        /* change heading color */
-}
-
-a {
-  color: #d67100;        /* link color */
-}
-
-a:hover {
-  color: #c54d00;
-}
-
-.site-footer {
-  color: #777;           /* lighter footer text */
-}
+/* Optional: page title + footer subtlety */
+.page__title, .site-title a { color: var(--global-link-color); }
+.site-footer { color: #666; }
