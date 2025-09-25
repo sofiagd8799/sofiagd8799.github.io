@@ -1,10 +1,32 @@
 /* Profile image floated left with responsive fallback */
-img.profile-left {
-  float: left;
-  width: 280px;             /* adjust as you like */
-  margin: 0 1.25rem 1rem 0; /* space to the right/bottom */
-  border-radius: 15px;
+/* Two-column about header */
+.about-wrap {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  margin-bottom: 1.25rem;
 }
+.about-photo img {
+  width: 280px;
+  max-width: 35vw;
+  border-radius: 15px;
+  display: block;
+}
+.about-text { flex: 1; }
+
+/* Stack on mobile */
+@media (max-width: 700px) {
+  .about-wrap {
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+  }
+  .about-photo img {
+    width: 220px;
+    max-width: 70%;
+  }
+}
+
 
 /* Ensure major sections start below the floated image */
 .page__content h2,
