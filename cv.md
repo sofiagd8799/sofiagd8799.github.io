@@ -11,8 +11,8 @@ sidebar:
 <div class="embed-frame">
   <iframe 
     src="/assets/css/CV_Final_GarciaDurrer.pdf#view=FitH" 
-    width="100%" 
-    height="850" 
+    width="85%" 
+    height="750" 
     style="border: none;" 
     title="CV - Sofía García Durrer">
   </iframe>
