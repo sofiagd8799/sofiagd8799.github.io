@@ -36,7 +36,7 @@ Below are some of my recent trips. Click a card to jump to the gallery.
   </article>
 
   <article class="archive__item">
-    <a href="#sweden-2024" class="archive__item-teaser">
+    <a href="#sweden_2024" class="archive__item-teaser">
       <img src="/DSC_0561.jpg" alt="Sweden 2024">
     </a>
     <h2 class="archive__item-title"><a href="#sweden-2024">Sweden, Finland and Norway (2024)</a></h2>
