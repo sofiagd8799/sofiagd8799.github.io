@@ -26,7 +26,7 @@ A few favorites I really like/recommend (a bit of everything - list in progress)
 
 ## Trips & Photography
 
-I love traveling and hiking, often bringing my camera along to capture the landscapes and moments that make each trip special. Below are some of my recent trips. 
+I love traveling and hiking, often bringing my camera along to capture the landscapes and moments that make each trip special. Below are some of my recent trips (list also in progress :)). 
 
 <p>
   <a class="btn btn--primary" href="https://www.instagram.com/sofiafotossss/" rel="noopener">See more photos on Instagram</a>
