@@ -64,7 +64,7 @@ I love traveling and hiking, often bringing my camera along to capture the lands
 </div>
 
 
-<div class="grid__wrapper">
+<div class="grid__wrapper no-blue-titles">
  <article class="archive__item">
     <a href="#sweden_2024" class="archive__item-teaser">
       <img src="/DSC_0561.jpg" alt="Lappland, Sweden 2024">
