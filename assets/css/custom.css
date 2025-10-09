@@ -244,7 +244,7 @@ a:hover { text-decoration: underline; }
   font-family: 'Fraunces', Inter, serif;
   font-weight: 700;
   font-size: clamp(2.8rem, 6vw, 5rem);
-  line-height: 1.05;
+  line-height: 1.00;
   letter-spacing: -0.5px;
   color: #f8fafc;
 }
