@@ -1,16 +1,18 @@
 ---
-title: About me
-permalink: /
-nav: main
-author_profile: false
-toc: false
 layout: splash
+title: "Hi, I'm Sofía García Durrer"
+subtitle: "PhD Researcher · Family Policy · Division of Labor · Causal Inference"
+permalink: /
+classes: wide
+header:
+  overlay_color: "#0b1220"
+  overlay_image: /assets/images/hero-abstract.jpg
+  overlay_filter: "0.4"
 ---
 
 <div style="text-align: center;"> <img src="foto_rf.jpeg" alt="Profile picture" width="280" style="border-radius: 15px;"> </div>
 
 ---
-
 
 I am a Ph.D. candidate at the Research Training Group [The Dynamics of Demography, Democratic Processes and Public Policy (DYNAMICS)](https://www.sowi.hu-berlin.de/en/dynamics), coordinated by the Department of Social Sciences at [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) and the [Hertie School](https://www.hertie-school.org/), and funded by the [German Research Foundation (DFG)](https://www.dfg.de/en). 
 
