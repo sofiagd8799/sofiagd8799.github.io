@@ -19,8 +19,6 @@ plugins:
 logo: /assets/images/profile.jpg
 
 author:
-  name: "Sofía García Durrer"
-  avatar: /foto_rf.jpeg
   bio: "PhD Researcher · Family Policy · Division of Labor"
   location: "Berlin, Germany"
   links:
