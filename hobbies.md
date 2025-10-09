@@ -87,7 +87,7 @@ I love traveling and hiking, often bringing my camera along to capture the lands
     <a href="#egypt_2021" class="archive__item-teaser">
       <img src="/DSC_0539.jpg" alt="Cairo and Dahab, Egypt 2021">
     </a>
-    <h2 class="archive__item-title"><a href="#sweden_2024">Egypt (2024)</a></h2>
+    <h2 class="archive__item-title"><a href="#sweden_2024">Egypt (2021)</a></h2>
     <p class="page__meta">Kairo · Dahab · Sinai desert</p>
     <p>Dahab, Egypt, is a peaceful coastal town where you can see countless stars at night and feel completely removed from the rest of the world.</p>
   </article>
