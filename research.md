@@ -1,11 +1,12 @@
 ---
-layout: single
+layout: splash
 title: "Research and Projects"
 permalink: /research/
+sidebar:
   nav: main
+  toc: false
 ---
 
----
 
 ## Publications:
 
