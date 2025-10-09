@@ -20,25 +20,19 @@ logo: /assets/images/profile.jpg
 
 author:
   name: "Sofía García Durrer"
-  avatar: /assets/images/profile.jpg
+  avatar: /foto_rf.jpeg
   bio: "PhD Researcher · Family Policy · Division of Labor"
   location: "Berlin, Germany"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:s.garcia-durrer@phd.hertie-school.org"
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/sofiagd8799/"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/sofiagd8799"
-    - label: "Instagram"
-      icon: "fab fa-instagram"
-      url: "https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/"
 
 # Permalinks (clean URLs)
 permalink: /:categories/:title/
@@ -61,8 +55,7 @@ social:
   name: "Sofía García Durrer"
   links:
     - "https://github.com/sofiagd8799"
-    - "https://www.linkedin.com/in/sofiagd8799/"
-    - "https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/"
+    - "https://www.linkedin.com/in/sofia-garcia-durrer/"
 
 # Sass/CSS (lets your /assets/css/custom.scss be used + minified)
 sass:
