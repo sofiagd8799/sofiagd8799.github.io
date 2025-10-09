@@ -10,7 +10,7 @@ header:
   overlay_filter: "0.4"
 ---
 
-<div style="text-align: center;"> <img src="foto_rf.jpeg" alt="Profile picture" width="280" style="border-radius: 15px;"> </div>
+<div style="text-align: center;"> <img src="FOTO2.jpeg" alt="Profile picture" width="300" style="border-radius: 15px;"> </div>
 
 ---
 
