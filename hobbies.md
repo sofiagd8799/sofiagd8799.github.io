@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Hobbies"
 permalink: /hobbies/
 sidebar:
