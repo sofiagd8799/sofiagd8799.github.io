@@ -17,7 +17,7 @@ header:
 
 <div class="about-float">
 
-![Sofía García Durrer](//FOTO2.png){: .profile-float }
+![Sofía García Durrer](/FOTO2.png){: .profile-float }
 
 </div>
 
