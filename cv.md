@@ -19,7 +19,7 @@ sidebar:
 </div>
 
 <p style="margin-top: 0.75rem;">
-  <a class="btn btn--inverse" href="/assets/css/CV_Final_GarciaDurrer.pdf" target="_blank" rel="noopener">
+  <a class="btn btn--primary" href="/assets/css/CV_Final_GarciaDurrer.pdf" target="_blank" rel="noopener">
     Download CV (PDF)
   </a>
 </p>
