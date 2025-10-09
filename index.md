@@ -13,7 +13,7 @@ header:
 
 ## About
 
-![Sofía García Durrer](/FOTO2.png){: .align-left .profile-float width="2500" }
+![Sofía García Durrer](/FOTO2.png){: .align-left .profile-float width="3500" }
 
 I am a Ph.D. candidate at the Research Training Group [The Dynamics of Demography, Democratic Processes and Public Policy (DYNAMICS)](https://www.sowi.hu-berlin.de/en/dynamics), coordinated by the Department of Social Sciences at [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) and the [Hertie School](https://www.hertie-school.org/), and funded by the [German Research Foundation (DFG)](https://www.dfg.de/en). 
 
