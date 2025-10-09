@@ -32,6 +32,11 @@ I love traveling and hiking, often bringing my camera along to capture the lands
   <a class="btn btn--primary" href="https://www.instagram.com/sofiafotossss/" rel="noopener">See more photos on Instagram</a>
 </p>
 
+or on my Behance account: 
+
+<p>
+  <a class="btn btn--primary" href="https://www.behance.net/sofiagarcia78?fbclid=PAZXh0bgNhZW0CMTEAAad6qqnrHq9F6Q8nGv-39waeokorkn6S26sjAlhCrElStLvvOikQMqOTsiLeVw_aem_T4q4IoX0FjARs3BlVW5PNQ"rel="noopener">Go to Behance</a> 
+</p>
 
 <div class="grid__wrapper no-blue-titles">
   <article class="archive__item">
