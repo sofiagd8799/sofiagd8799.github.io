@@ -46,13 +46,14 @@ My research sits at the intersection of international development, gender and (m
 - [Curriculum Vitae](/cv/)
 - [Research](/research/)
 - [Teaching](/teaching/)
-- [DYNAMICS Graduate Program]([https://www.dynamics-of-demography.eu/](https://www.sowi.hu-berlin.de/en/dynamics)) and my Profile page at the [official program site](https://www.sowi.hu-berlin.de/en/dynamics/people/doctoral-researchers2/sixth-cohort-2025-2028/sofia-garcia-durrer)
-- [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en)
+- [DYNAMICS Graduate Program](https://www.sowi.hu-berlin.de/en/dynamics) and my Profile page at the [official program site](https://www.sowi.hu-berlin.de/en/dynamics/people/doctoral-researchers2/sixth-cohort-2025-2028/sofia-garcia-durrer)
 - [Hertie School](https://www.hertie-school.org/) and my Profile page at the [Hertie School page](https://www.hertie-school.org/en/who-we-are/profile/person/garcia-durrer)
+- [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en)
 
 ## Connect with me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sofia-garcia-durrer/)
+[![LinkedIn](https://img.shields.io/badge/-?logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/sofia-garcia-durrer/)
 [![GitHub followers](https://img.shields.io/github/followers/yourname?style=social)](https://github.com/sofiagd8799)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.garcia-durrer@phd.hertie-school.org)
 
 
 © 2025 Sofía García Durrer, Powered by **Jekyll** & **AcademicPages**, a fork of **Minimal Mistakes**.  
