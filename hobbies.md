@@ -7,6 +7,8 @@ sidebar:
   toc: false
 ---
 
+Data items found: {{ site.data.galleries.sweden_2024 | size }}
+
 ## Book recommendations
 
 A few recent favorites I recommend. I’ll try to keep this list fresh :).
@@ -56,7 +58,6 @@ Below are some of my recent trips. Click a card to jump to the gallery.
 
 {% include gallery id="sweden_2024" caption="Scandinavia, Winter Semester 2024" columns="3" %}
 
-{{ site.data.galleries.sweden_2024 | size }}
 
 ---
 
