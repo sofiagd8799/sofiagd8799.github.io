@@ -36,7 +36,7 @@ I love traveling and hiking, often bringing my camera along to capture the lands
 <div class="grid__wrapper">
   <article class="archive__item">
     <a href="#bulgaria-2025" class="archive__item-teaser">
-      <img src="/DSC_1170.jpg" alt="Bulgaria 2025">
+      <img src="/DSC_0018.jpg" alt="Bulgaria 2025">
     </a>
     <h2 class="archive__item-title"><a href="#bulgaria-2025">Bulgaria (2025)</a></h2>
     <p class="page__meta">7 Rila Lakes · Moutains and  fortresses· Road trip</p>
