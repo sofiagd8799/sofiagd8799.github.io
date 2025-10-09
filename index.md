@@ -12,7 +12,7 @@ header:
 
 <div class="about-wrap">
   <div class="about-photo">
-    <img src="/assets/images/FOTO2.png" alt="Profile picture of Sofía García Durrer">
+    <img src="/FOTO2.png" alt="Profile picture of Sofía García Durrer">
   </div>
 
   <div class="about-text">
