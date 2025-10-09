@@ -46,7 +46,7 @@ My research sits at the intersection of international development, gender and (m
 - [Curriculum Vitae](/cv/)
 - [Research](/research/)
 - [Teaching](/teaching/)
-- [DYNAMICS Graduate Program](https://www.dynamics-of-demography.eu/) and my Profile page at the [official program site](https://www.sowi.hu-berlin.de/en/dynamics/people/doctoral-researchers2/sixth-cohort-2025-2028/sofia-garcia-durrer)
+- [DYNAMICS Graduate Program]([https://www.dynamics-of-demography.eu/](https://www.sowi.hu-berlin.de/en/dynamics)) and my Profile page at the [official program site](https://www.sowi.hu-berlin.de/en/dynamics/people/doctoral-researchers2/sixth-cohort-2025-2028/sofia-garcia-durrer)
 - [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en)
 - [Hertie School](https://www.hertie-school.org/) and my Profile page at the [Hertie School page](https://www.hertie-school.org/en/who-we-are/profile/person/garcia-durrer)
 
