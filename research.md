@@ -16,9 +16,7 @@ Here you can find my publications:
 
 ![Working Paper](https://img.shields.io/badge/Working%20Paper-blue)
 
-+ "Till chores tear us apart: Perceived unfairness in household labor division and the risk of union dissolution among German couples"
-+  2025
-  
++ "Till chores tear us apart: Perceived unfairness in household labor division and the risk of union dissolution among German couples" - 2025
 _In Preparation_
 
 
