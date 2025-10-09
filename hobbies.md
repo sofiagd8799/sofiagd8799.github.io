@@ -17,7 +17,7 @@ A few recent favorites I recommend. I’ll try to keep this list fresh :).
 ## Trips & Photography
 
 <p>
-  <a class="btn btn--inverse" href="https://www.instagram.com/sofiafotossss/"  rel="noopener">See more photos on Instagram</a>
+  <a class="btn btn--primary" href="https://www.instagram.com/sofiafotossss/" rel="noopener">See more photos on Instagram</a>
 </p>
 
 
