@@ -39,7 +39,7 @@ Below are some of my recent trips. Click a card to jump to the gallery.
     <a href="#sweden_2024" class="archive__item-teaser">
       <img src="/DSC_0561.jpg" alt="Sweden 2024">
     </a>
-    <h2 class="archive__item-title"><a href="#sweden-2024">Sweden, Finland and Norway (2024)</a></h2>
+    <h2 class="archive__item-title"><a href="#sweden_2024">Sweden, Finland and Norway (2024)</a></h2>
     <p class="page__meta">Lappland · Oslo, Helsinki and Stockholm</p>
     <p>Chasing the northern lights.</p>
   </article>
