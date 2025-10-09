@@ -1,1 +1,13 @@
+# /_data/galleries.yml
+
+sweden_2024:
+  - url: /assets/DSC_0561.jpg
+    image_path: /assets/DSC_0561.jpg
+    alt: Lappland and reindeers
+  - url: /assets/DSC_0816.jpg
+    image_path: /assets/DSC_0816.jpg
+    alt: 
+  - url: /assets/images/trips/copenhagen_2025/cph_03.jpg
+    image_path: /assets/images/trips/copenhagen_2025/thumbs/cph_03.jpg
+    alt: Sunrise over the city
 
