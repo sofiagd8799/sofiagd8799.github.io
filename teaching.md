@@ -1,9 +1,10 @@
 ---
-layout: single
+layout: splash
 title: "Teaching"
 permalink: /teaching/
 sidebar:
   nav: main
+  toc: false
 ---
 
 I enjoy teaching and have been a Teaching Assistant for the following courses at the Hertie School: 
