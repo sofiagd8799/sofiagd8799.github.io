@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "Research and Projects"
 permalink: /research/
 sidebar:
