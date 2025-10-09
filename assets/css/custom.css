@@ -1,46 +1,166 @@
-/* Profile image floated left with responsive fallback */
-/* Two-column about header */
-.about-wrap {
-  display: flex;
-  align-items: flex-start;
-  gap: 1.5rem;
-  margin-bottom: 1.25rem;
-}
-.about-photo img {
-  width: 280px;
-  max-width: 35vw;
-  border-radius: 15px;
-  display: block;
-}
-.about-text { flex: 1; }
+/* ===========================
+   Add-on styles (safe, additive)
+   Paste BELOW your existing rules
+   =========================== */
 
-/* Stack on mobile */
-@media (max-width: 700px) {
-  .about-wrap {
-    flex-direction: column;
-    align-items: center;
-    text-align: left;
-  }
-  .about-photo img {
-    width: 220px;
-    max-width: 70%;
-  }
+/* --- Color tokens (easy theming) --- */
+:root {
+  --brand: #1f2937;          /* slate-800 */
+  --brand-ink: #0f172a;      /* slate-900 */
+  --brand-accent: #0ea5e9;   /* sky-500 */
+  --brand-accent-2: #22c55e; /* green-500 */
+  --muted: #6b7280;          /* gray-500 */
+  --border: #e5e7eb;         /* gray-200 */
+  --bg-soft: #f8fafc;        /* slate-50 */
 }
 
+/* --- Base typography polish --- */
+.page__content {
+  font-size: 1.06rem;
+  line-height: 1.75;
+  letter-spacing: 0.1px;
+}
+.page__content p { margin: 0 0 1.1rem; }
+.page__content h1, .page__title { color: var(--brand-ink); }
+.page__content h2 { margin-top: 2rem; color: var(--brand); }
+.page__content h3 { margin-top: 1.25rem; color: var(--brand); }
+.page__content em { font-style: italic; }
 
-/* Ensure major sections start below the floated image */
-.page__content h2,
-.page__content h3,
+/* --- Links --- */
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+.page__content a { color: var(--brand-accent); }
+.page__content a:visited { color: var(--brand); }
+
+/* --- Subtle section dividers --- */
 .page__content hr {
-  clear: both;
+  border: 0;
+  border-top: 1px solid var(--border);
+  margin: 2rem 0;
+  clear: both; /* keeps your earlier intent */
 }
 
-/* On small screens, stop floating and center the image */
-@media (max-width: 700px) {
-  img.profile-left {
-    float: none;
-    display: block;
-    margin: 0 auto 1rem;
-    width: 220px;           /* smaller on mobile */
-  }
+/* --- Call-to-action buttons (uses MM classes) --- */
+.btn, .btn--primary {
+  background: var(--brand);
+  border: 0;
+  color: #fff !important;
+  border-radius: 10px;
+  padding: .55rem .9rem;
+}
+.btn--primary:hover { background: #111827; } /* darker slate */
+.btn--inverse { background: var(--brand-accent); }
+.btn--inverse:hover { filter: brightness(.95); }
+
+/* --- “Hero” header polish (works with layout: splash) --- */
+.page__hero {
+  background: var(--bg-soft);
+  border-bottom: 1px solid var(--border);
+}
+.page__hero .page__lead {
+  max-width: 48rem;
+  color: var(--muted);
+}
+
+/* --- Card grid for research/teaching lists --- */
+.grid__wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.2rem;
+  margin-top: 1rem;
+}
+.archive__item {
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: #fff;
+  padding: 1rem;
+  transition: transform .12s ease, box-shadow .12s ease;
+}
+.archive__item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0,0,0,.06);
+}
+.archive__item .archive__item-teaser img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+}
+
+/* --- Meta text under titles --- */
+.page__meta, .archive__item .page__meta {
+  color: var(--muted);
+  font-size: .92rem;
+}
+
+/* --- Tables (for CV/teaching) --- */
+.page__content table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.page__content table th,
+.page__content table td {
+  border: 1px solid var(--border);
+  padding: .6rem .7rem;
+}
+.page__content table th {
+  background: var(--bg-soft);
+  text-align: left;
+}
+
+/* --- Code blocks / inline code --- */
+.page__content code { 
+  background: #f3f4f6;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: .1rem .35rem;
+}
+
+/* --- Nav + footer subtlety (keeps theme structure) --- */
+.masthead, .greedy-nav {
+  background: #fff;
+  border-bottom: 1px solid var(--border);
+}
+.page__footer {
+  border-top: 1px solid var(--border);
+  background: #fff;
+}
+.page__footer-follow .social-icons a:hover {
+  color: var(--brand-accent);
+}
+
+/* --- Responsive tweaks for your about block --- */
+.about-wrap { margin-top: .25rem; }
+.about-photo img {
+  box-shadow: 0 8px 24px rgba(2,6,23,.08);
+}
+
+/* --- Image defaults --- */
+.page__content img {
+  border-radius: 10px;
+}
+
+/* --- Tag pills (optional: use <span class="tag">Policy</span>) --- */
+.tag {
+  display: inline-block;
+  font-size: .8rem;
+  padding: .2rem .5rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--brand);
+  background: #fff;
+  margin-right: .35rem;
+  margin-bottom: .35rem;
+}
+
+/* --- Compact lists for CV bullets --- */
+.page__content ul.compact > li { margin-bottom: .35rem; }
+
+/* --- Iframe wrapper for CV embed --- */
+.embed-frame {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  background: #fff;
 }
