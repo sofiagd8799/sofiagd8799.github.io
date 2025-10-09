@@ -51,7 +51,7 @@ My research sits at the intersection of international development, gender and (m
 - [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en)
 
 ## Connect with me 
-[![LinkedIn](https://img.shields.io/badge/-?logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/sofia-garcia-durrer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-garcia-durrer/)
 [![GitHub followers](https://img.shields.io/github/followers/yourname?style=social)](https://github.com/sofiagd8799)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.garcia-durrer@phd.hertie-school.org)
 
