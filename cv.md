@@ -6,8 +6,20 @@ sidebar:
   nav: main
   toc: false
 ---
-The latest version of my CV (09.2025): 
+<h2>The latest version of my CV <small>(updated September 2025)</small></h2>
 
-<object data="/assets/css/CV_Final_GarciaDurrer.pdf" type="application/pdf" width="100%" height="800px">
-  <p>Your browser does not support PDFs. <a href="/assets/docs/myfile.pdf">Download PDF</a>.</p>
-</object>
+<div class="embed-frame">
+  <iframe 
+    src="/assets/docs/CV_Final_GarciaDurrer.pdf#view=FitH" 
+    width="100%" 
+    height="850" 
+    style="border: none;" 
+    title="CV - Sofía García Durrer">
+  </iframe>
+</div>
+
+<p style="margin-top: 0.75rem;">
+  <a class="btn btn--inverse" href="/assets/docs/CV_Final_GarciaDurrer.pdf" target="_blank" rel="noopener">
+    Download CV (PDF)
+  </a>
+</p>
