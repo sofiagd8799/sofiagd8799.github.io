@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "Hobbies"
 permalink: /hobbies/
 sidebar:
@@ -55,6 +55,8 @@ Below are some of my recent trips. Click a card to jump to the gallery.
 ### Sweden, Finland and Norway (2024) {#sweden_2024}
 
 {% include gallery id="sweden_2024" caption="Scandinavia, Winter Semester 2024" columns="3" %}
+
+{{ site.data.galleries.sweden_2024 | size }}
 
 ---
 
