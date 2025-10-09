@@ -1,9 +1,10 @@
 ---
-layout: single
+layout: splash
 title: CV
 permalink: /cv/
 sidebar:
   nav: main
+  toc: false
 ---
 The latest version of my CV (09.2025): 
 
