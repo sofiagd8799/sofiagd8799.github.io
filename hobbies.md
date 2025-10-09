@@ -1,10 +1,10 @@
 ---
-layout: splash
+layout: single
 title: "Hobbies"
 permalink: /hobbies/
-sidebar:
-  nav: main
-  toc: false
+classes: wide
+author_profile: false
+render_with_liquid: true
 ---
 
 ## Book recommendations
@@ -52,7 +52,7 @@ Below are some of my recent trips. Click a card to jump to the gallery.
 
 ---
 
-### Sweden, Finland and Norway (2024) {#sweden_2024}
+### Sweden, Finland and Norway (2024) {: #sweden_2024 }
 
 {% include gallery id="sweden_2024" caption="Scandinavia, Winter Semester 2024" columns="2" %}
 
