@@ -7,7 +7,7 @@ toc: false
 layout: splash
 ---
 
-<div style="text-align: center;"> <img src="1741211441255.jpeg" alt="Profile picture" width="280" style="border-radius: 15px;"> </div>
+<div style="text-align: center;"> <img src="foto_rf.jpeg" alt="Profile picture" width="280" style="border-radius: 15px;"> </div>
 
 ---
 
