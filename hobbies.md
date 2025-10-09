@@ -33,7 +33,7 @@ I love traveling and hiking, often bringing my camera along to capture the lands
 </p>
 
 
-<div class="grid__wrapper">
+<div class="grid__wrapper no-blue-titles">
   <article class="archive__item">
     <a href="#bulgaria-2025" class="archive__item-teaser">
       <img src="/DSC_0018.JPG" alt="Bulgaria 2025">
@@ -70,8 +70,8 @@ I love traveling and hiking, often bringing my camera along to capture the lands
       <img src="/DSC_0561.jpg" alt="Lappland, Sweden 2024">
     </a>
     <h2 class="archive__item-title"><a href="#sweden_2024">Lappland, Sweden (2024)</a></h2>
-    <p class="page__meta">Lappland · Roadtripp in Northern Sweden</p>
-    <p>Chasing the northern lights.</p>
+    <p class="page__meta">Lappland · Roadtrip in Northern Sweden</p>
+    <p>Chasing the amazing northern lights in the cold.</p>
   </article>
   
   <article class="archive__item">
@@ -80,7 +80,7 @@ I love traveling and hiking, often bringing my camera along to capture the lands
     </a>
     <h2 class="archive__item-title"><a href="#bulgaria-2025">Ciudad Perdida (2024)</a></h2>
     <p class="page__meta">Archology · Spirituality· La Sierra Nevada de Santa Marta</p>
-    <p>Trekking to Ciudad Perdida was a transformative journey through dense jungle, ancient stone terraces, and living tayrona culture.</p>
+    <p>Trekking to Ciudad Perdida was a transformative journey through dense jungle, and living tayrona culture.</p>
   </article>
 
    <article class="archive__item">
