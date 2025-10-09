@@ -28,9 +28,9 @@ _In Preparation_
 
 #### I have been a co-author of two research notes published on the website of the [Fundación Interra](https://fundacioninterra.org/) in Colombia: 
 
-+ [NT 6:La descentralización en Colombia: una mirada desde las diferencias regionales y las capacidades institucionales/ Decentralization in Colombia: a view from regional differences and institutional capacities with Celina Gaitán](https://publicaciones.fundacioninterra.org/documentos_interra/nt-6-la-descentralizacion-en-colombia-una-mirada-desde-las-diferencias-regionales-y-las-capacidades-institucionales/))
++ ["NT 6: La descentralización en Colombia: una mirada desde las diferencias regionales y las capacidades institucionales"/ Decentralization in Colombia: a view from regional differences and institutional capacities with Celina Gaitán](https://publicaciones.fundacioninterra.org/documentos_interra/nt-6-la-descentralizacion-en-colombia-una-mirada-desde-las-diferencias-regionales-y-las-capacidades-institucionales/))
 
-+ [NT 7: Índice de Inclusión Laboral Poblacional-INLAP/ Labor Inclusion Index with Paola Vanegas, Camila Espinosa and Eduard Arias](https://publicaciones.fundacioninterra.org/documentos_interra/nt-7-indice-de-inclusion-laboral-poblacional-inlap-2/): The Interra Foundation developed the Labor Inclusion Index for the Colombian Population (INLAP) as the first comprehensive tool to diagnose and measure labor inclusion in Colombia. It addresses structural barriers that prevent vulnerable groups from accessing quality education, job intermediation, and formal employment opportunities.
++ ["NT 7: Índice de Inclusión Laboral Poblacional-INLAP"/ Labor Inclusion Index with Paola Vanegas, Camila Espinosa and Eduard Arias](https://publicaciones.fundacioninterra.org/documentos_interra/nt-7-indice-de-inclusion-laboral-poblacional-inlap-2/): The Interra Foundation developed the Labor Inclusion Index for the Colombian Population (INLAP) as the first comprehensive tool to diagnose and measure labor inclusion in Colombia. It addresses structural barriers that prevent vulnerable groups from accessing quality education, job intermediation, and formal employment opportunities.
 
      
 
