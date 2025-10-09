@@ -237,3 +237,37 @@ a:hover { text-decoration: underline; }
 /* Footer/nav subtlety */
 .masthead, .greedy-nav { background:#fff; border-bottom:1px solid var(--border); }
 .page__footer { border-top:1px solid var(--border); }
+
+
+/* Hero title (Home) */
+.page__hero .page__title {
+  font-family: 'Fraunces', Inter, serif;
+  font-weight: 700;
+  font-size: clamp(2.8rem, 6vw, 5rem);
+  line-height: 1.05;
+  letter-spacing: -0.5px;
+  color: #f8fafc;
+}
+
+.page__hero .page__lead {
+  color: #e2e8f0;
+  font-size: clamp(1.1rem, 2.2vw, 1.4rem);
+  font-weight: 400;
+}
+
+/* Center hero content */
+.page__hero {
+  text-align: center;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+/* Accent button tweaks (if you use them) */
+.btn, .btn--primary {
+  background: #0ea5e9;
+  border: none;
+  border-radius: 12px;
+  color: #fff !important;
+  padding: .6rem 1rem;
+}
+.btn:hover { filter: brightness(.9); }
