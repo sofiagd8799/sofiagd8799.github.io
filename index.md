@@ -10,10 +10,7 @@ header:
   overlay_filter: "0.4"
 ---
 
-<div class="about-wrap">
-  <div class="about-photo">
-    <img src="/FOTO2.png" alt="Profile picture of Sofía García Durrer">
-  </div>
+<div style="text-align: center;"> <img src="FOTO2.png" alt="Profile picture" width="300" style="border-radius: 15px;"> </div>
 ---
 
 I am a Ph.D. candidate at the Research Training Group [The Dynamics of Demography, Democratic Processes and Public Policy (DYNAMICS)](https://www.sowi.hu-berlin.de/en/dynamics), coordinated by the Department of Social Sciences at [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) and the [Hertie School](https://www.hertie-school.org/), and funded by the [German Research Foundation (DFG)](https://www.dfg.de/en). 
