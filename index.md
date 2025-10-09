@@ -10,8 +10,12 @@ header:
   overlay_filter: "0.4"
 ---
 
-<div style="text-align: center;"> <img src="FOTO2.png" alt="Profile picture" width="300" style="border-radius: 15px;"> </div>
+<div class="about-wrap">
+  <div class="about-photo">
+    <img src="/assets/images/FOTO2.png" alt="Profile picture of Sofía García Durrer">
+  </div>
 
+  <div class="about-text">
 ---
 
 I am a Ph.D. candidate at the Research Training Group [The Dynamics of Demography, Democratic Processes and Public Policy (DYNAMICS)](https://www.sowi.hu-berlin.de/en/dynamics), coordinated by the Department of Social Sciences at [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) and the [Hertie School](https://www.hertie-school.org/), and funded by the [German Research Foundation (DFG)](https://www.dfg.de/en). 
@@ -20,6 +24,8 @@ I am Colombian–Swiss and am based in Germany. Currently living in Berlin, I fo
 
 Outside of work, I’m passionate about photography: portraits, street life, and landscapes are my main focus. I often combine photography with some hiking, chasing the kinds of views that make the effort worthwhile. I also love reading, and, inspired by some of my colleagues, I share reflections on both photography and books [here](/hobbies/).
 
+  </div>
+</div>
 ---
 
 ## My research interests
