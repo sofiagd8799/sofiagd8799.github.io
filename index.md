@@ -19,7 +19,7 @@ I am a Ph.D. candidate at the Research Training Group [The Dynamics of Demograph
 
 I am Colombian–Swiss and am based in Germany. Currently living in Berlin, I focus my research interests on Europe and Latin America. Feel free to [get in touch](mailto:s.garcia-durrer@phd.hertie-school.org) if you’d like to connect or explore potential collaborations. I am particularly interested in projects at the intersection of academic research and policy implementation or evaluation, and I would be glad to contribute or share insights from my (upcoming) research on initiatives with a strong practical application.
 
-Outside of work, I’m passionate about photography: portraits, street life, and landscapes are my main focus. I often combine photography with some hiking, chasing the kinds of views that make the effort worthwhile. I also love reading, and, inspired by some of my colleagues, I share reflections on both photography and books [here](/hobbies/).
+Outside of work, I’m passionate about photography: portraits, street life, and landscapes are my main focus. I often combine photography with some hiking, chasing the kinds of views that make the effort worthwhile. I also love reading, and, inspired by some of my colleagues, I aim to share reflections on both photography and books [here](/hobbies/).
 
 {: .clear}
 
@@ -34,7 +34,7 @@ My research sits at the intersection of international development, gender and (m
 ## Education
 
 - Master in Public Policy with an emphasis on Policy Analysis, [Hertie School, Germany] (2025) Final grade: 1.6
-- Exchange Semester, [Stockholm School of Economics, Sweden] (2024)
+- Exchange Semester - Master in Economics, [Stockholm School of Economics, Sweden] (2024)
 - BSc. in Economics, [University of Mannheim, Germany] (2023) 
 - BA in Political Science and Sociology (minor), [University of Mannheim, Germany] (2020)
 - Exchange Semester, [Universitat Pompeu Fabra, Barcelona] (2019)
