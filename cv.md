@@ -10,7 +10,7 @@ sidebar:
 
 <div class="embed-frame">
   <iframe 
-    src="/assets/docs/CV_Final_GarciaDurrer.pdf#view=FitH" 
+    src="/assets/css/CV_Final_GarciaDurrer.pdf#view=FitH" 
     width="100%" 
     height="850" 
     style="border: none;" 
@@ -19,7 +19,7 @@ sidebar:
 </div>
 
 <p style="margin-top: 0.75rem;">
-  <a class="btn btn--inverse" href="/assets/docs/CV_Final_GarciaDurrer.pdf" target="_blank" rel="noopener">
+  <a class="btn btn--inverse" href="/assets/css/CV_Final_GarciaDurrer.pdf" target="_blank" rel="noopener">
     Download CV (PDF)
   </a>
 </p>
