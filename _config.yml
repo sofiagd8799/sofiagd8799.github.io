@@ -4,14 +4,74 @@ description: "Your professional/research website"
 baseurl: "" # leave blank for username.github.io
 url: "https://sofiagd8799.github.io"
 
-# Use Minimal Mistakes
+# Theme
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: default   # clean, neutral skin
 
-# Plugins allowed on GitHub Pages
+# Plugins (all allowed on GitHub Pages)
 plugins:
   - jekyll-include-cache
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
+# Site identity
+logo: /assets/images/profile.jpg
+
+author:
+  name: "Sofía García Durrer"
+  avatar: /assets/images/profile.jpg
+  bio: "PhD Researcher · Family Policy · Division of Labor"
+  location: "Berlin, Germany"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:s.garcia-durrer@phd.hertie-school.org"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/sofiagd8799/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/sofiagd8799"
+    - label: "Instagram"
+      icon: "fab fa-instagram"
+      url: "https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/"
+
+# Permalinks (clean URLs)
+permalink: /:categories/:title/
+
+# Defaults to keep pages looking consistent
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      show_date: false
+      share: false
+      related: false
+      toc: false
+
+# SEO basics (jekyll-seo-tag uses these)
+social:
+  name: "Sofía García Durrer"
+  links:
+    - "https://github.com/sofiagd8799"
+    - "https://www.linkedin.com/in/sofiagd8799/"
+    - "https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/"
+
+# Sass/CSS (lets your /assets/css/custom.scss be used + minified)
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+# Feed (jekyll-feed) – set a title for RSS/Atom
+feed:
+  path: atom.xml
 
 
 
