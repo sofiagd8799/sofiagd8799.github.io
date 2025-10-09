@@ -16,8 +16,6 @@ plugins:
   - jekyll-sitemap
 
 # Site identity
-logo: /assets/images/profile.jpg
-
 author:
   bio: "PhD Researcher · Family Policy · Division of Labor"
   location: "Berlin, Germany"
