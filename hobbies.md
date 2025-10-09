@@ -7,8 +7,6 @@ sidebar:
   toc: false
 ---
 
-Data items found: {{ site.data.galleries.sweden_2024 | size }}
-
 ## Book recommendations
 
 A few recent favorites I recommend. I’ll try to keep this list fresh :).
