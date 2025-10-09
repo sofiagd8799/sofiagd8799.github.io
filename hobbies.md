@@ -26,20 +26,20 @@ Below are some of my recent trips. Click a card to jump to the gallery.
 <div class="grid__wrapper">
   <article class="archive__item">
     <a href="#bulgaria-2025" class="archive__item-teaser">
-      <img src="/assets/images/trips/iceland_2024/thumbs/iceland-thumb.jpg" alt="Iceland 2024">
+      <img src="/assets/images/trips/iceland_2024/thumbs/iceland-thumb.jpg" alt="Bulgaria 2025">
     </a>
     <h2 class="archive__item-title"><a href="#bulgaria-2025">Bulgaria (2025)</a></h2>
-    <p class="page__meta">Waterfalls · Glaciers · Road trip</p>
-    <p>A week around the Ring Road—moody skies, blue ice, and hot springs.</p>
+    <p class="page__meta">7 Rila Lakes · Moutains and  fortresses· Road trip</p>
+    <p>A week in Sofia, the beautiful Rila Mountains and the Belogradchik Rocks.</p>
   </article>
 
   <article class="archive__item">
     <a href="#sweden-2024" class="archive__item-teaser">
       <img src="/assets/images/trips/copenhagen_2025/thumbs/cph-thumb.jpg" alt="Sweden 2024">
     </a>
-    <h2 class="archive__item-title"><a href="#copenhagen-2025">Copenhagen (2025)</a></h2>
-    <p class="page__meta">City · Bikes · Canals</p>
-    <p>Soft mornings on the bike and golden hour by the water.</p>
+    <h2 class="archive__item-title"><a href="#sweden-2024">Sweden, Finland and Norway (2024)</a></h2>
+    <p class="page__meta">Lappland · Oslo, Helsinki and Stockholm</p>
+    <p>Chasing the northern lights.</p>
   </article>
 
 </div>
