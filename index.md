@@ -13,6 +13,8 @@ header:
 <div style="text-align: center;"> <img src="FOTO2.png" alt="Profile picture" width="300" style="border-radius: 15px;"> </div>
 ---
 
+## About
+
 I am a Ph.D. candidate at the Research Training Group [The Dynamics of Demography, Democratic Processes and Public Policy (DYNAMICS)](https://www.sowi.hu-berlin.de/en/dynamics), coordinated by the Department of Social Sciences at [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) and the [Hertie School](https://www.hertie-school.org/), and funded by the [German Research Foundation (DFG)](https://www.dfg.de/en). 
 
 I am Colombian–Swiss and am based in Germany. Currently living in Berlin, I focus my research interests on Europe and Latin America. Feel free to [get in touch](mailto:s.garcia-durrer@phd.hertie-school.org) if you’d like to connect or explore potential collaborations. I am particularly interested in projects at the intersection of academic research and policy implementation or evaluation, and I would be glad to contribute or share insights from my (upcoming) research on initiatives with a strong practical application.
