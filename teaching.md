@@ -7,8 +7,6 @@ sidebar:
   toc: false
 ---
 
-I enjoy teaching and have been a Teaching Assistant for the following courses at the Hertie School: 
-
 ## Courses (Teaching Assistant)
 
 - **Statistics I: Inference & Regression F-2025 (Fall 2025)** – Instructor: [Maria Uttenthal,  Ph.D. ](https://www.linkedin.com/in/maria-uttenthal-phd-344035a0/?originalSubdomain=de)  
