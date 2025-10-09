@@ -54,7 +54,7 @@ Below are some of my recent trips. Click a card to jump to the gallery.
 
 ### Sweden, Finland and Norway (2024) {#sweden-2024}
 
-{% include gallery id="copenhagen_2025" caption="Copenhagen, April 2025" columns="3" %}
+{% include gallery id="sweden_2024" caption="Scandinavia, Winter Semester 2024" columns="3" %}
 
 ---
 
