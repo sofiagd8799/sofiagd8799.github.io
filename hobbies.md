@@ -36,7 +36,7 @@ I love traveling and hiking, often bringing my camera along to capture the lands
 <div class="grid__wrapper">
   <article class="archive__item">
     <a href="#bulgaria-2025" class="archive__item-teaser">
-      <img src="/assets/images/trips/iceland_2024/thumbs/iceland-thumb.jpg" alt="Bulgaria 2025">
+      <img src="/DSC_1170" alt="Bulgaria 2025">
     </a>
     <h2 class="archive__item-title"><a href="#bulgaria-2025">Bulgaria (2025)</a></h2>
     <p class="page__meta">7 Rila Lakes · Moutains and  fortresses· Road trip</p>
@@ -52,8 +52,38 @@ I love traveling and hiking, often bringing my camera along to capture the lands
     <p>Chasing the northern lights.</p>
   </article>
 
+   <article class="archive__item">
+    <a href="#norway_2024" class="archive__item-teaser">
+      <img src="/DSC_0539.jpg" alt="Norway 2024">
+    </a>
+    <h2 class="archive__item-title"><a href="#norway_2024">Norway (2024)</a></h2>
+    <p class="page__meta">Narvik · Oslo</p>
+    <p>Spent a week discovering Oslo’s rich museum culture and enjoying picturesque road trips from Kiruna across the border into Norway.</p>
+  </article>
+
 </div>
 
+
+<div class="grid__wrapper">
+  <article class="archive__item">
+    <a href="#colombia_2024" class="archive__item-teaser">
+      <img src="/DSC_0788.jpg" alt="Colombia 2024">
+    </a>
+    <h2 class="archive__item-title"><a href="#bulgaria-2025">Ciudad Perdida (2024)</a></h2>
+    <p class="page__meta">Archology · Spirituality· La Sierra Nevada de Santa Marta</p>
+    <p>Trekking to Ciudad Perdida is a transformative journey through dense jungle, ancient stone terraces, and living tayrona culture.</p>
+  </article>
+
+   <article class="archive__item">
+    <a href="#egypt_2021" class="archive__item-teaser">
+      <img src="/DSC_0539.jpg" alt="Egypt 2021">
+    </a>
+    <h2 class="archive__item-title"><a href="#sweden_2024">Egypt (2024)</a></h2>
+    <p class="page__meta">Kairo · Dahab · Sinai desert</p>
+    <p>Almost two weeks in one of the most incredible places I have ever been. </p>
+  </article>
+
+</div>
 
 
 ---
