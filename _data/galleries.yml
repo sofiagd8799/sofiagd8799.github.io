@@ -1,11 +1,11 @@
 # /_data/galleries.yml
 
 sweden_2024:
-  - url: /assets/DSC_0561.jpg
-    image_path: /assets/DSC_0561.jpg
+  - url: /DSC_0561.jpg
+    image_path: /DSC_0561.jpg
     alt: Lappland and reindeers
-  - url: /assets/DSC_0816.jpg
-    image_path: /assets/DSC_0816.jpg
+  - url: /DSC_0816.jpg
+    image_path: /DSC_0816.jpg
     alt: Oslo landscape
 
 
