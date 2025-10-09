@@ -17,15 +17,15 @@ header:
 
 <div class="about-float">
 
-![Sofía García Durrer](/assets/images/FOTO2.png){: .profile-float }
+![Sofía García Durrer](//FOTO2.png){: .profile-float }
+
+</div>
 
 I am a Ph.D. candidate at the Research Training Group [The Dynamics of Demography, Democratic Processes and Public Policy (DYNAMICS)](https://www.sowi.hu-berlin.de/en/dynamics), coordinated by the Department of Social Sciences at [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) and the [Hertie School](https://www.hertie-school.org/), and funded by the [German Research Foundation (DFG)](https://www.dfg.de/en). 
 
 I am Colombian–Swiss and am based in Germany. Currently living in Berlin, I focus my research interests on Europe and Latin America. Feel free to [get in touch](mailto:s.garcia-durrer@phd.hertie-school.org) if you’d like to connect or explore potential collaborations. I am particularly interested in projects at the intersection of academic research and policy implementation or evaluation, and I would be glad to contribute or share insights from my (upcoming) research on initiatives with a strong practical application.
 
 Outside of work, I’m passionate about photography: portraits, street life, and landscapes are my main focus. I often combine photography with some hiking, chasing the kinds of views that make the effort worthwhile. I also love reading, and, inspired by some of my colleagues, I share reflections on both photography and books [here](/hobbies/).
-
-</div>
 
 ---
 
