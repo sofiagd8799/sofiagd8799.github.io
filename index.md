@@ -6,7 +6,7 @@ permalink: /
 classes: wide
 toc: false
 header:
-  overlay_color: "#0b1220"
+  overlay_color: "#14213d"
   overlay_image: /assets/images/hero-abstract.jpg
   overlay_filter: "0.4"
 ---
@@ -30,6 +30,13 @@ Feel free to [get in touch](mailto:s.garcia-durrer@phd.hertie-school.org) if you
 Outside of work, I’m passionate about photography: portraits, street life, and landscapes are my main focus. I often combine photography with hiking, chasing the kinds of views that make the effort worthwhile. I also love reading, and I share reflections on both photography and books [here](/hobbies/).
 
 {: .clear}
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/sofia-garcia-durrer/)
+- [GitHub](https://github.com/sofiagd8799)
+- [Bluesky](https://bsky.app/profile/sofiagarciadurrer.bsky.social)
+- [Email](mailto:s.garcia-durrer@phd.hertie-school.org)
 
 ---
 
@@ -91,14 +98,6 @@ During the first year of my PhD, I presented my research at several conferences 
 - DYNAMICS: [Program site](https://www.sowi.hu-berlin.de/en/dynamics) · [My profile](https://www.sowi.hu-berlin.de/en/dynamics/people/doctoral-researchers2/sixth-cohort-2025-2028/sofia-garcia-durrer)
 - Hertie School: [Website](https://www.hertie-school.org/) · [My profile](https://www.hertie-school.org/en/who-we-are/profile/person/garcia-durrer)
 - Humboldt-Universität: [Website](https://www.hu-berlin.de/en)
-
----
-
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-garcia-durrer/)
-[![GitHub followers](https://img.shields.io/github/followers/sofiagd8799?style=social)](https://github.com/sofiagd8799)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.garcia-durrer@phd.hertie-school.org)
 
 ---
 
