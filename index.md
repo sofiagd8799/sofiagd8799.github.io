@@ -5,7 +5,6 @@ excerpt: "PhD Researcher · Family Policy · Division of Labour · Social Policy
 permalink: /
 classes: wide
 toc: false
-
 header:
   overlay_color: "#14213d"
   overlay_image: /assets/images/hero-abstract.jpg
