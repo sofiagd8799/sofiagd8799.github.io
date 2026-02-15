@@ -243,9 +243,9 @@ a:hover { text-decoration: underline; }
 .page__hero .page__title {
   font-family: 'Fraunces', Inter, serif;
   font-weight: 700;
-  font-size: clamp(2.8rem, 6vw, 5rem);
-  line-height: 1.00;
-  letter-spacing: -0.5px;
+  font-size: clamp(2.0rem, 4.2vw, 3.2rem); /* smaller */
+  line-height: 1.05;
+  letter-spacing: -0.3px;
   color: #f8fafc;
 }
 
