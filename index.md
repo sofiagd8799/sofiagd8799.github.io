@@ -33,10 +33,33 @@ Outside of work, I’m passionate about photography: portraits, street life, and
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/sofia-garcia-durrer/)
-- [GitHub](https://github.com/sofiagd8799)
-- [Bluesky](https://bsky.app/profile/sofiagarciadurrer.bsky.social)
-- [Email](mailto:s.garcia-durrer@phd.hertie-school.org)
+<div class="grid__wrapper">
+
+<div class="archive__item">
+<h3>LinkedIn</h3>
+<p>Professional updates and academic network.</p>
+<p><a href="https://www.linkedin.com/in/sofia-garcia-durrer/">View Profile →</a></p>
+</div>
+
+<div class="archive__item">
+<h3>GitHub</h3>
+<p>Research code and academic projects.</p>
+<p><a href="https://github.com/sofiagd8799">Visit GitHub →</a></p>
+</div>
+
+<div class="archive__item">
+<h3>Bluesky</h3>
+<p>Research thoughts and academic discussions.</p>
+<p><a href="https://bsky.app/profile/sofiagarciadurrer.bsky.social">Follow on Bluesky →</a></p>
+</div>
+
+<div class="archive__item">
+<h3>Email</h3>
+<p>For collaborations, research inquiries, or teaching matters.</p>
+<p><a href="mailto:s.garcia-durrer@phd.hertie-school.org">Send Email →</a></p>
+</div>
+
+</div>
 
 ---
 
