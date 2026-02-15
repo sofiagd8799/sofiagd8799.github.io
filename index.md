@@ -92,10 +92,10 @@ During the first year of my PhD, I presented my research at several conferences 
 - **European Population Conference (EPC)** — Bologna  (upcoming)
   [Conference page](https://www.eaps.nl/page/european-population-conference)
 
-- **Workshop: A Unified Perspective on Formation and Dissolution Processes in Demography** — Odense  
+- **Workshop: A Unified Perspective on Formation and Dissolution Processes in Demography** — Odense (upcoming)
   [Workshop page](https://bornonce-dieonce.eu/outreach/workshop2026)
 
-- **FACES PhD Workshop – Families and Challenges in Evolving Societies** — Munich  
+- **FACES PhD Workshop – Families and Challenges in Evolving Societies** — Munich (upcoming)
   [Call for Papers (PDF)](https://www.oif.ac.at/fileadmin/user_upload/p_oif/Veranstaltungen/CfP_Families_and_Challenges_in_Evolving_Societies_-_Family_Sciences_Conference_2026.pdf)
 
 - **Young Demographers Conference** — Prague  
