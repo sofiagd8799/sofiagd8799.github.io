@@ -1,14 +1,18 @@
 ---
-layout: splash
+layout: single
 title: "Hi, I'm Sofía García Durrer"
-excerpt: "PhD Researcher · Family Policy · Division of Labour · Social Policy · Causal Inference ·"
+excerpt: "PhD Researcher · Family Policy · Division of Labour · Social Policy · Causal Inference"
 permalink: /
 classes: wide
 toc: false
+
 header:
   overlay_color: "#14213d"
   overlay_image: /assets/images/hero-abstract.jpg
   overlay_filter: "0.4"
+
+sidebar:
+  nav: home-index
 ---
 
 ## About
