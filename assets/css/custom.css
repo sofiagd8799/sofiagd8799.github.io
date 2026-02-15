@@ -243,7 +243,7 @@ a:hover { text-decoration: underline; }
 .page__hero .page__title {
   font-family: 'Fraunces', Inter, serif;
   font-weight: 700;
-  font-size: clamp(2.0rem, 4.2vw, 3.2rem); /* smaller */
+  font-size: clamp(1.0rem, 3.2vw, 2.2rem); /* smaller */
   line-height: 1.05;
   letter-spacing: -0.3px;
   color: #f8fafc;
