@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Hi, I'm Sofía García Durrer"
-subtitle: "PhD Researcher · Family Policy · Division of Labor · Causal Inference"
+excerpt: "PhD Researcher · Family Policy · Division of Labor · Causal Inference"
 permalink: /
 classes: wide
 header:
@@ -12,7 +12,7 @@ header:
 
 ## About
 
-![Sofía García Durrer](/foto_rf.jpeg){: .align-left .profile-float width="260" }
+![Sofía García Durrer](/foto_rf.jpeg){: .align-left .profile-float width="300" }
 
 I am a Ph.D. candidate at the Research Training Group
 [The Dynamics of Demography, Democratic Processes and Public Policy (DYNAMICS)](https://www.sowi.hu-berlin.de/en/dynamics),
@@ -28,9 +28,9 @@ Feel free to [get in touch](mailto:s.garcia-durrer@phd.hertie-school.org) if you
 
 Outside of work, I’m passionate about photography: portraits, street life, and landscapes are my main focus. I often combine photography with hiking, chasing the kinds of views that make the effort worthwhile. I also love reading, and I share reflections on both photography and books [here](/hobbies/).
 
-[CV](/cv/) {: .btn .btn--primary .btn--small }
-[Research](/research/) {: .btn .btn--info .btn--small }
-[Email](mailto:s.garcia-durrer@phd.hertie-school.org) {: .btn .btn--inverse .btn--small }
+[CV](/cv/) -
+[Research](/research/) - 
+[Email](mailto:s.garcia-durrer@phd.hertie-school.org) 
 
 {: .clear}
 
@@ -85,11 +85,8 @@ During the first year of my PhD, I had the pleasure of presenting my research at
 
 ## Quick Links
 
-[Curriculum Vitae](/cv/) {: .btn .btn--primary .btn--small }
-[Research](/research/) {: .btn .btn--primary .btn--small }
-[Teaching](/teaching/) {: .btn .btn--primary .btn--small }
-[DYNAMICS Graduate Program](/) {: .btn .btn--inverse .btn--small }
-
+- [Curriculum Vitae](/cv/) 
+- About the [DYNAMICS Graduate Program](/) 
 - DYNAMICS: [Program site](https://www.sowi.hu-berlin.de/en/dynamics) · [My profile](https://www.sowi.hu-berlin.de/en/dynamics/people/doctoral-researchers2/sixth-cohort-2025-2028/sofia-garcia-durrer)
 - Hertie School: [Website](https://www.hertie-school.org/) · [My profile](https://www.hertie-school.org/en/who-we-are/profile/person/garcia-durrer)
 - Humboldt-Universität: [Website](https://www.hu-berlin.de/en)
