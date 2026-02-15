@@ -10,16 +10,27 @@ header:
   overlay_filter: "0.4"
 ---
 
-
 ## About
 
-![Sofía García Durrer](/foto_rf.jpeg){: .align-left .profile-float width="3500" }
+![Sofía García Durrer](/foto_rf.jpeg){: .align-left .profile-float width="260" }
 
-I am a Ph.D. candidate at the Research Training Group [The Dynamics of Demography, Democratic Processes and Public Policy (DYNAMICS)](https://www.sowi.hu-berlin.de/en/dynamics), coordinated by the Department of Social Sciences at [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) and the [Hertie School](https://www.hertie-school.org/), and funded by the [German Research Foundation (DFG)](https://www.dfg.de/en). 
+I am a Ph.D. candidate at the Research Training Group
+[The Dynamics of Demography, Democratic Processes and Public Policy (DYNAMICS)](https://www.sowi.hu-berlin.de/en/dynamics),
+coordinated by the Department of Social Sciences at
+[Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) and the
+[Hertie School](https://www.hertie-school.org/), and funded by the
+[German Research Foundation (DFG)](https://www.dfg.de/en).
 
-I am Colombian–Swiss and am based in Germany. Currently living in Berlin, I focus my research interests on Europe and Latin America. Feel free to [get in touch](mailto:s.garcia-durrer@phd.hertie-school.org) if you’d like to connect or explore potential collaborations. I am particularly interested in projects at the intersection of academic research and policy implementation or evaluation, and I would be glad to contribute or share insights from my (upcoming) research on initiatives with a strong practical application.
+I am Colombian–Swiss and based in Germany. Currently living in Berlin, I focus my research on Europe and Latin America.
+I am particularly interested in projects at the intersection of academic research and policy implementation or evaluation,
+and I would be glad to contribute or share insights from my (upcoming) research on initiatives with a strong practical application.
+Feel free to [get in touch](mailto:s.garcia-durrer@phd.hertie-school.org) if you’d like to connect or explore potential collaborations.
 
-Outside of work, I’m passionate about photography: portraits, street life, and landscapes are my main focus. I often combine photography with some hiking, chasing the kinds of views that make the effort worthwhile. I also love reading, and, inspired by some of my colleagues, I aim to share reflections on both photography and books [here](/hobbies/).
+Outside of work, I’m passionate about photography: portraits, street life, and landscapes are my main focus. I often combine photography with hiking, chasing the kinds of views that make the effort worthwhile. I also love reading, and I share reflections on both photography and books [here](/hobbies/).
+
+[CV](/cv/) {: .btn .btn--primary .btn--small }
+[Research](/research/) {: .btn .btn--info .btn--small }
+[Email](mailto:s.garcia-durrer@phd.hertie-school.org) {: .btn .btn--inverse .btn--small }
 
 {: .clear}
 
@@ -27,51 +38,71 @@ Outside of work, I’m passionate about photography: portraits, street life, and
 
 ## My research interests
 
-My research sits at the intersection of international development, gender and (micro-)economics, social and family policy, and computational social science. I focus on the care economy and the ways in which public policies shape family dynamics and the division of labor within households. In particular, I apply a wide range of quantitative methods to examine how the division of labor between partners shapes relationship outcomes and how policies can mitigate or exacerbate these dynamics by influencing couples’ decisions about care, employment, and family life. My main PhD supervisor is [Prof. Dr. Michaela Kreyenfeld](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/kreyenfeld) affiliated at the [Hertie School](https://www.hertie-school.org/) in Berlin. 
+My research sits at the intersection of international development, gender and (micro-)economics, social and family policy, and computational social science. I focus on the care economy and the ways in which public policies shape family dynamics and the division of labor within households. In particular, I apply a wide range of quantitative methods to examine how the division of labor between partners shapes relationship outcomes and how policies can mitigate or exacerbate these dynamics by influencing couples’ decisions about care, employment, and family life.
+
+My main PhD supervisor is [Prof. Dr. Michaela Kreyenfeld](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/kreyenfeld) (Hertie School, Berlin).
+
+**Keywords:** care economy · division of labor · family dynamics · policy evaluation · causal inference · computational social science
 
 ---
 
 ## Education
 
-- **Master in Public Policy with an emphasis on Policy Analysis**, [Hertie School, Germany] (2025) Final grade: 1.6
-- Exchange Semester - **Master in Economics**, [Stockholm School of Economics, Sweden] (2024)
-- **BSc. in Economics**, [University of Mannheim, Germany] (2023) 
-- **BA in Political Science and Sociology (minor)**, [University of Mannheim, Germany] (2020)
-- Exchange Semester - **Bachelor in Economics and Political Science**, [Universitat Pompeu Fabra, Barcelona] (2019)
+- **Master in Public Policy (Policy Analysis)**, Hertie School, Germany (2025) — Final grade: 1.6  
+- Exchange Semester — **Master in Economics**, Stockholm School of Economics, Sweden (2024)  
+- **BSc. Economics**, University of Mannheim, Germany (2023)  
+- **BA Political Science and Sociology (minor)**, University of Mannheim, Germany (2020)  
+- Exchange Semester — **Economics & Political Science**, Universitat Pompeu Fabra, Barcelona (2019)
 
 ---
 
-## Latest News - Conferences & Academic Engagement
+## Latest News — Conferences & Academic Engagement
 
-During the first year of my PhD, I have had the pleasure of presenting my research at several conferences and academic workshops.
+During the first year of my PhD, I had the pleasure of presenting my research at several conferences and academic workshops.
 
-In 2025, I participated in the FREDA Autumn School and the [FReDA User Conference](https://www.freda-panel.de/FReDA/DE/News-Termine/FReDA-Nutzerkonferenz/freda-nutzerkonferenz-2025.html), where I was honored to receive the *Best Presentation Award* together with Laura Bozet.
+### 2026
 
-I am also presenting ongoing work at the following international conferences and workshops:
+- **European Population Conference (EPC)** — Bologna  
+  Presenting ongoing work.  
+  [Conference page](https://www.eaps.nl/page/european-population-conference)
 
-- [Young Demographers Conference](https://youngdemographers.github.io/conference.html), Prague
-- [FACES PhD Workshop – Families and Challenges in Evolving Societies](https://www.oif.ac.at/fileadmin/user_upload/p_oif/Veranstaltungen/CfP_Families_and_Challenges_in_Evolving_Societies_-_Family_Sciences_Conference_2026.pdf), Munich  
-- [Workshop: A Unified Perspective on Formation and Dissolution Processes in Demography](https://bornonce-dieonce.eu/outreach/workshop2026), Odense
-- [European Population Conference](https://www.eaps.nl/page/european-population-conference), Bologna  
+- **Young Demographers Conference** — Prague  
+  [Conference page](https://youngdemographers.github.io/conference.html)
 
+- **FACES PhD Workshop – Families and Challenges in Evolving Societies** — Munich  
+  [Call for Papers (PDF)](https://www.oif.ac.at/fileadmin/user_upload/p_oif/Veranstaltungen/CfP_Families_and_Challenges_in_Evolving_Societies_-_Family_Sciences_Conference_2026.pdf)
+
+- **Workshop: A Unified Perspective on Formation and Dissolution Processes in Demography** — Odense  
+  [Workshop page](https://bornonce-dieonce.eu/outreach/workshop2026)
+
+### 2025
+
+- **FREDA Autumn School** — Participant  
+- **FReDA User Conference** — *Best Presentation Award* (with Laura Bozet)  
+  [Conference page](https://www.freda-panel.de/FReDA/DE/News-Termine/FReDA-Nutzerkonferenz/freda-nutzerkonferenz-2025.html)
 
 ---
 
 ## Quick Links
 
-- [Curriculum Vitae](/cv/)
-- [Research](/research/)
-- [Teaching](/teaching/)
-- [DYNAMICS Graduate Program](https://www.sowi.hu-berlin.de/en/dynamics) and my Profile page at the [official program site](https://www.sowi.hu-berlin.de/en/dynamics/people/doctoral-researchers2/sixth-cohort-2025-2028/sofia-garcia-durrer)
-- [Hertie School](https://www.hertie-school.org/) and my Profile page at the [Hertie School page](https://www.hertie-school.org/en/who-we-are/profile/person/garcia-durrer)
-- [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en)
+[Curriculum Vitae](/cv/) {: .btn .btn--primary .btn--small }
+[Research](/research/) {: .btn .btn--primary .btn--small }
+[Teaching](/teaching/) {: .btn .btn--primary .btn--small }
+[DYNAMICS Graduate Program](/) {: .btn .btn--inverse .btn--small }
 
-## Connect with me 
+- DYNAMICS: [Program site](https://www.sowi.hu-berlin.de/en/dynamics) · [My profile](https://www.sowi.hu-berlin.de/en/dynamics/people/doctoral-researchers2/sixth-cohort-2025-2028/sofia-garcia-durrer)
+- Hertie School: [Website](https://www.hertie-school.org/) · [My profile](https://www.hertie-school.org/en/who-we-are/profile/person/garcia-durrer)
+- Humboldt-Universität: [Website](https://www.hu-berlin.de/en)
+
+---
+
+## Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-garcia-durrer/)
-[![GitHub followers](https://img.shields.io/github/followers/yourname?style=social)](https://github.com/sofiagd8799)
+[![GitHub followers](https://img.shields.io/github/followers/sofiagd8799?style=social)](https://github.com/sofiagd8799)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.garcia-durrer@phd.hertie-school.org)
 
+---
 
-© 2025 Sofía García Durrer, Powered by **Jekyll** & **AcademicPages**, a fork of **Minimal Mistakes**.  
-*Site last updated 2025-09*
-
+© 2026 Sofía García Durrer · Powered by **Jekyll** & **AcademicPages** (Minimal Mistakes).  
+*Last updated: 2026-02-15*
