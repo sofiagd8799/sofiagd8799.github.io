@@ -54,28 +54,32 @@ My main PhD supervisor is [Prof. Dr. Michaela Kreyenfeld](https://www.hertie-sch
 
 ## Latest News — Conferences & Academic Engagement
 
-During the first year of my PhD, I had the pleasure of presenting my research at several conferences and academic workshops.
+During the first year of my PhD, I presented my research at several conferences and academic workshops. I look forward to continuing these exchanges at upcoming events and conferences.
 
 ### 2026
 
-- **European Population Conference (EPC)** — Bologna  
-  Presenting ongoing work.  
+- **European Population Conference (EPC)** — Bologna  (upcoming)
   [Conference page](https://www.eaps.nl/page/european-population-conference)
-
-- **Young Demographers Conference** — Prague  
-  [Conference page](https://youngdemographers.github.io/conference.html)
-
-- **FACES PhD Workshop – Families and Challenges in Evolving Societies** — Munich  
-  [Call for Papers (PDF)](https://www.oif.ac.at/fileadmin/user_upload/p_oif/Veranstaltungen/CfP_Families_and_Challenges_in_Evolving_Societies_-_Family_Sciences_Conference_2026.pdf)
 
 - **Workshop: A Unified Perspective on Formation and Dissolution Processes in Demography** — Odense  
   [Workshop page](https://bornonce-dieonce.eu/outreach/workshop2026)
 
+- **FACES PhD Workshop – Families and Challenges in Evolving Societies** — Munich  
+  [Call for Papers (PDF)](https://www.oif.ac.at/fileadmin/user_upload/p_oif/Veranstaltungen/CfP_Families_and_Challenges_in_Evolving_Societies_-_Family_Sciences_Conference_2026.pdf)
+
+  - **Young Demographers Conference** — Prague  
+  [Conference page](https://youngdemographers.github.io/conference.html)
+
 ### 2025
 
-- **FREDA Autumn School** — Participant  
+- **Workshop "Contemporary Challenges for Parents and Children"** - Berlin
+  [Workshop page](https://sites.google.com/view/work-mum/team?authuser=0)
+
 - **FReDA User Conference** — *Best Presentation Award* (with Laura Bozet)  
   [Conference page and Award Announcement](https://www.freda-panel.de/FReDA/DE/News-Termine/FReDA-Nutzerkonferenz/freda-nutzerkonferenz-2025.html)
+
+- **FREDA Autumn School** — Participant  
+
 
 ---
 
