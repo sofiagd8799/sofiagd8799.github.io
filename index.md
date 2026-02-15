@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Hi, I'm Sofía García Durrer"
-excerpt: "PhD Researcher · Family Policy · Division of Labor · Causal Inference"
+excerpt: "PhD Researcher · Family Policy · Division of Labour · Social Policy · Causal Inference ·"
 permalink: /
 classes: wide
 header:
@@ -12,7 +12,7 @@ header:
 
 ## About
 
-![Sofía García Durrer](/foto_rf.jpeg){: .align-left .profile-float width="300" }
+![Sofía García Durrer](/foto_rf.jpeg){: .align-left .profile-float width="400"}
 
 I am a Ph.D. candidate at the Research Training Group
 [The Dynamics of Demography, Democratic Processes and Public Policy (DYNAMICS)](https://www.sowi.hu-berlin.de/en/dynamics),
@@ -27,10 +27,6 @@ and I would be glad to contribute or share insights from my (upcoming) research 
 Feel free to [get in touch](mailto:s.garcia-durrer@phd.hertie-school.org) if you’d like to connect or explore potential collaborations.
 
 Outside of work, I’m passionate about photography: portraits, street life, and landscapes are my main focus. I often combine photography with hiking, chasing the kinds of views that make the effort worthwhile. I also love reading, and I share reflections on both photography and books [here](/hobbies/).
-
-[CV](/cv/) -
-[Research](/research/) - 
-[Email](mailto:s.garcia-durrer@phd.hertie-school.org) 
 
 {: .clear}
 
@@ -79,7 +75,7 @@ During the first year of my PhD, I had the pleasure of presenting my research at
 
 - **FREDA Autumn School** — Participant  
 - **FReDA User Conference** — *Best Presentation Award* (with Laura Bozet)  
-  [Conference page](https://www.freda-panel.de/FReDA/DE/News-Termine/FReDA-Nutzerkonferenz/freda-nutzerkonferenz-2025.html)
+  [Conference page and Award Announcement](https://www.freda-panel.de/FReDA/DE/News-Termine/FReDA-Nutzerkonferenz/freda-nutzerkonferenz-2025.html)
 
 ---
 
