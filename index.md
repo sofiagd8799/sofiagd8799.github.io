@@ -13,7 +13,7 @@ header:
 
 ## About
 
-![Sofía García Durrer](/foto_rf.jpeg){: .align-left .profile-float width="400"}
+![Sofía García Durrer](/1741211441255.jpeg){:.profile-float width="400"}
 
 I am a Ph.D. candidate at the Research Training Group
 [The Dynamics of Demography, Democratic Processes and Public Policy (DYNAMICS)](https://www.sowi.hu-berlin.de/en/dynamics),
