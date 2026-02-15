@@ -13,7 +13,7 @@ header:
 
 ## About
 
-![Sofía García Durrer](/1741211441255.jpeg){: .align-left .profile-float width="3500" }
+![Sofía García Durrer](/foto_rf.jpeg){: .align-left .profile-float width="3500" }
 
 I am a Ph.D. candidate at the Research Training Group [The Dynamics of Demography, Democratic Processes and Public Policy (DYNAMICS)](https://www.sowi.hu-berlin.de/en/dynamics), coordinated by the Department of Social Sciences at [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en) and the [Hertie School](https://www.hertie-school.org/), and funded by the [German Research Foundation (DFG)](https://www.dfg.de/en). 
 
@@ -38,6 +38,22 @@ My research sits at the intersection of international development, gender and (m
 - **BSc. in Economics**, [University of Mannheim, Germany] (2023) 
 - **BA in Political Science and Sociology (minor)**, [University of Mannheim, Germany] (2020)
 - Exchange Semester - **Bachelor in Economics and Political Science**, [Universitat Pompeu Fabra, Barcelona] (2019)
+
+---
+
+## Latest News - Conferences & Academic Engagement
+
+During the first year of my PhD, I have had the pleasure of presenting my research at several conferences and academic workshops.
+
+In 2025, I participated in the FREDA Autumn School and the [FReDA User Conference](https://www.freda-panel.de/FReDA/DE/News-Termine/FReDA-Nutzerkonferenz/freda-nutzerkonferenz-2025.html), where I was honored to receive the *Best Presentation Award* together with Laura Bozet.
+
+I am also presenting ongoing work at the following international conferences and workshops:
+
+- [Young Demographers Conference](https://youngdemographers.github.io/conference.html), Prague
+- [FACES PhD Workshop – Families and Challenges in Evolving Societies](https://www.oif.ac.at/fileadmin/user_upload/p_oif/Veranstaltungen/CfP_Families_and_Challenges_in_Evolving_Societies_-_Family_Sciences_Conference_2026.pdf), Munich  
+- [Workshop: A Unified Perspective on Formation and Dissolution Processes in Demography](https://bornonce-dieonce.eu/outreach/workshop2026), Odense
+- [European Population Conference](https://www.eaps.nl/page/european-population-conference), Bologna  
+
 
 ---
 
