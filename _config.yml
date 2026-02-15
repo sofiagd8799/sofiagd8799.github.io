@@ -62,6 +62,10 @@ sass:
 feed:
   path: atom.xml
 
+.page__content p {
+  text-align: justify;
+}
+
 
 
 
