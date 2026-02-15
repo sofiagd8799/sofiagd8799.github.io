@@ -67,7 +67,7 @@ During the first year of my PhD, I presented my research at several conferences 
 - **FACES PhD Workshop – Families and Challenges in Evolving Societies** — Munich  
   [Call for Papers (PDF)](https://www.oif.ac.at/fileadmin/user_upload/p_oif/Veranstaltungen/CfP_Families_and_Challenges_in_Evolving_Societies_-_Family_Sciences_Conference_2026.pdf)
 
-  - **Young Demographers Conference** — Prague  
+- **Young Demographers Conference** — Prague  
   [Conference page](https://youngdemographers.github.io/conference.html)
 
 ### 2025
