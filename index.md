@@ -10,9 +10,6 @@ header:
   overlay_color: "#14213d"
   overlay_image: /assets/images/hero-abstract.jpg
   overlay_filter: "0.4"
-
-sidebar:
-  nav: home-index
 ---
 
 ## About
