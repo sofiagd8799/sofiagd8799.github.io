@@ -16,7 +16,7 @@ Here you can find my publications:
 
 ![Working Paper](https://img.shields.io/badge/Working%20Paper-blue)
 
-+ "Till chores tear us apart: Perceived unfairness in household labour division and the risk of union dissolution among different sex couples in Germany" with Tabea Naujoks (University of Rostock) and Heike Trappe (University of Rostock) - 2026
++ "Till chores tear us apart: Perceived unfairness in household labor division and the risk of union dissolution among different sex couples in Germany" with Tabea Naujoks (University of Rostock) and Heike Trappe (University of Rostock) - 2026
 _In Preparation_
 
 + "Parental Leave, Specialization and the Life-Course Accumulation of Inequality" -  2026
