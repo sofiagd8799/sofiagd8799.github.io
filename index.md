@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Hi, I'm Sofía García Durrer"
-excerpt: "PhD Researcher · Family Policy · Division of Labor · Social Policy · Causal Inference"
+excerpt: "PhD Researcher · Family Demography · Fertility & Family Change · Division of Labor · Gender and Labor Markets · Family Policy · Life-Course Outcomes"
 permalink: /
 classes: wide
 toc: false
@@ -65,11 +65,9 @@ Outside of work, I’m passionate about photography: portraits, street life, and
 
 ## My research interests
 
-My research sits at the intersection of international development, gender and (micro-)economics, social and family policy, and computational social science. I focus on the care economy and the ways in which public policies shape family dynamics and the division of labor within households. In particular, I apply a wide range of quantitative methods to examine how the division of labor between partners shapes relationship outcomes and how policies can mitigate or exacerbate these dynamics by influencing couples’ decisions about care, employment, and family life.
+My research sits at the intersection of social family demography, gender and (micro-)economics, social and family policy, and social inequality, with computational social science as a methodological toolkit. At its core is a simple question: how do family formation, care work, and labor market participation intertwine across the life course? Public policy plays a central role here, shaping the division of labor within households and couples' decisions about care and employment throughout the life-course. Using a range of quantitative methods, I trace how this division of labor shapes partners' demographic and economic trajectories — separation and divorce, career progression, fertility — and how policy can widen or narrow the resulting gender gaps in labor market security. I am also increasingly interested in how these household dynamics intersect with gender-based violence, and in the demographic conditions — economic dependency, relationship dissolution, care burdens — that shape individuals' exposure to it. More broadly, I am interested in how large-scale disruptions such as war and displacement reshape family life, from separation and union dissolution to fertility responses.
 
 My main PhD supervisor is [Prof. Dr. Michaela Kreyenfeld](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/kreyenfeld) (Hertie School, Berlin).
-
-**Keywords:** care economy · division of labor · family dynamics · policy evaluation · causal inference · computational social science
 
 ---
 
@@ -78,7 +76,7 @@ My main PhD supervisor is [Prof. Dr. Michaela Kreyenfeld](https://www.hertie-sch
 - **Master in Public Policy (Policy Analysis)**, Hertie School, Germany (2025) — Final grade: 1.6  
 - Exchange Semester — **Master in Economics**, Stockholm School of Economics, Sweden (2024)  
 - **BSc. Economics**, University of Mannheim, Germany (2023)  
-- **BA Political Science and Sociology (minor)**, University of Mannheim, Germany (2020)  
+- **BA Political Science and Sociology**, University of Mannheim, Germany (2020)  
 - Exchange Semester — **Economics & Political Science**, Universitat Pompeu Fabra, Barcelona (2019)
 
 ---
@@ -89,10 +87,10 @@ During the first year of my PhD, I presented my research at several conferences 
 
 ### 2026
 
-- **European Population Conference (EPC)** — Bologna  (upcoming)
+- **European Population Conference (EPC)** — Bologna  
   [Conference page](https://www.eaps.nl/page/european-population-conference)
 
-- **Workshop: A Unified Perspective on Formation and Dissolution Processes in Demography** — Odense (upcoming)
+- **Workshop: A Unified Perspective on Formation and Dissolution Processes in Demography** — Odense 
   [Workshop page](https://bornonce-dieonce.eu/outreach/workshop2026)
 
 - **FACES PhD Workshop – Families and Challenges in Evolving Societies** — Munich (upcoming)
