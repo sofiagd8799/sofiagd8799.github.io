@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Hi, I'm Sofía García Durrer"
-excerpt: "PhD Researcher · Family Demography · Fertility & Family Change · Division of Labor · Gender and Labor Markets · Family Policy · Life-Course Outcomes"
+excerpt: "PhD Researcher · Family Demography · Division of Labor · Gender and Labor Markets · Fertility & Family Change · Family Policy · Life-Course Outcomes"
 permalink: /
 classes: wide
 toc: false
