@@ -52,7 +52,7 @@ a:hover { text-decoration: underline; }
 .btn--inverse { background: var(--brand-accent); }
 .btn--inverse:hover { filter: brightness(.95); }
 
-/* --- “Hero” header polish (works with layout: splash) --- */
+/* --- "Hero" header polish (works with layout: splash) --- */
 .page__hero {
   background: var(--bg-soft);
   border-bottom: 1px solid var(--border);
@@ -312,6 +312,7 @@ img.profile-float {
 }
 
 
+/* --- Connect section icon badges (scoped to Connect only) --- */
 .icon-badge {
   width: 32px;
   height: 32px;
@@ -333,8 +334,8 @@ img.profile-float {
 .icon-rgate     { background: #00CCBB; }
 .icon-email     { background: #6B7280; }
 
-.archive__item h3 {
+/* Scoped to .connect-grid so it doesn't affect Research/Teaching/News cards */
+.connect-grid .archive__item h3 {
   display: flex;
   align-items: center;
 }
-
