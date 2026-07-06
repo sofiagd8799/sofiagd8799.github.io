@@ -31,43 +31,52 @@ Outside of work, I’m passionate about photography: portraits, street life, and
 
 {: .clear}
 
-## Connect
-
-<div class="grid__wrapper">
-
-<div class="archive__item">
-<h3>LinkedIn</h3>
-<p>Professional updates and academic network.</p>
-<p><a href="https://www.linkedin.com/in/sofia-garcia-durrer/">View Profile →</a></p>
-</div>
-
-<div class="archive__item">
-<h3>GitHub</h3>
-<p>Research code and academic projects.</p>
-<p><a href="https://github.com/sofiagd8799">Visit GitHub →</a></p>
-</div>
-
-<div class="archive__item">
-<h3>Bluesky</h3>
-<p>Research thoughts and academic discussions.</p>
-<p><a href="https://bsky.app/profile/sofiagarciadurrer.bsky.social">Follow on Bluesky →</a></p>
-</div>
-
-<div class="archive__item">
-<h3>Email</h3>
-<p>For collaborations, research inquiries, or teaching matters.</p>
-<p><a href="mailto:s.garcia-durrer@phd.hertie-school.org">Send Email →</a></p>
-</div>
-
-</div>
-
----
-
 ## My research interests
 
 My research sits at the intersection of social family demography, gender and (micro-)economics, social and family policy, and social inequality, with computational social science as a methodological toolkit. At its core is a simple question: how do family formation, care work, and labor market participation intertwine across the life course? Public policy plays a central role here, shaping the division of labor within households and couples' decisions about care and employment throughout the life-course. Using a range of quantitative methods, I trace how this division of labor shapes partners' demographic and economic trajectories — separation and divorce, career progression, fertility — and how policy can widen or narrow the resulting gender gaps in labor market security. I am also increasingly interested in how these household dynamics intersect with gender-based violence, and in the demographic conditions — economic dependency, relationship dissolution, care burdens — that shape individuals' exposure to it. More broadly, I am interested in how large-scale disruptions such as war and displacement reshape family life, from separation and union dissolution to fertility responses.
 
 My main PhD supervisor is [Prof. Dr. Michaela Kreyenfeld](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/kreyenfeld) (Hertie School, Berlin).
+
+---
+## Connect
+<div class="grid__wrapper">
+<div class="archive__item">
+<h3><span class="icon-badge icon-linkedin"><i class="fa-brands fa-linkedin-in"></i></span>LinkedIn</h3>
+<p>Professional updates and academic network.</p>
+<p><a href="https://www.linkedin.com/in/sofia-garcia-durrer/">View Profile →</a></p>
+</div>
+<div class="archive__item">
+<h3><span class="icon-badge icon-github"><i class="fa-brands fa-github"></i></span>GitHub</h3>
+<p>Research code and academic projects.</p>
+<p><a href="https://github.com/sofiagd8799">Visit GitHub →</a></p>
+</div>
+<div class="archive__item">
+<h3><span class="icon-badge icon-bluesky"><i class="fa-brands fa-bluesky"></i></span>Bluesky</h3>
+<p>Research thoughts and academic discussions.</p>
+<p><a href="https://bsky.app/profile/sofiagarciadurrer.bsky.social">Follow on Bluesky →</a></p>
+</div>
+<div class="archive__item">
+<h3><span class="icon-badge icon-orcid"><i class="ai ai-orcid"></i></span>ORCID</h3>
+<p>Verified researcher record and full publication list.</p>
+<p><a href="https://orcid.org/0009-0003-2916-3989">View ORCID →</a></p>
+</div>
+<div class="archive__item">
+<h3><span class="icon-badge icon-scholar"><i class="ai ai-google-scholar"></i></span>Google Scholar</h3>
+<p>Citations, h-index, and indexed publications.</p>
+<p><a href="https://scholar.google.com/citations?user=4YyuWeoAAAAJ&hl=de">View Profile →</a></p>
+</div>
+<div class="archive__item">
+<h3><span class="icon-badge icon-rgate"><i class="ai ai-researchgate"></i></span>ResearchGate</h3>
+<p>Preprints, working papers, and full-text uploads.</p>
+<p><a href="https://www.researchgate.net/profile/Sofia-Garcia-Durrer">View Profile →</a></p>
+</div>
+<div class="archive__item">
+<h3><span class="icon-badge icon-email"><i class="fa-regular fa-envelope"></i></span>Email</h3>
+<p>For collaborations, research inquiries, or teaching matters.</p>
+<p><a href="mailto:s.garcia-durrer@phd.hertie-school.org">Send Email →</a></p>
+</div>
+</div>
+---
 
 ---
 
