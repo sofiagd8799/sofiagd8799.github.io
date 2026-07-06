@@ -312,4 +312,29 @@ img.profile-float {
 }
 
 
+.icon-badge {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+  color: #fff;
+  flex-shrink: 0;
+  margin-right: 10px;
+}
+
+.icon-linkedin  { background: #0A66C2; }
+.icon-github    { background: #24292F; }
+.icon-bluesky   { background: #1185FE; }
+.icon-orcid     { background: #A6CE39; }
+.icon-scholar   { background: #4285F4; }
+.icon-rgate     { background: #00CCBB; }
+.icon-email     { background: #6B7280; }
+
+.archive__item h3 {
+  display: flex;
+  align-items: center;
+}
 
