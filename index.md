@@ -76,7 +76,6 @@ My main PhD supervisor is [Prof. Dr. Michaela Kreyenfeld](https://www.hertie-sch
 <p><a href="mailto:s.garcia-durrer@phd.hertie-school.org">Send Email →</a></p>
 </div>
 </div>
----
 
 ---
 
