@@ -14,7 +14,9 @@ Here you can find my publications:
 ## Working Papers
 
 <div class="paper-card" markdown="1">
-  <img src="/Rplot01.png" alt="Regression plot: perceived fairness and separation risk" class="paper-image">
+  <a class="image-popup" href="/Rplot01.png">
+    <img src="/Rplot01.png" alt="Regression plot: perceived fairness and separation risk" class="paper-image">
+  </a>
   <div class="paper-text" markdown="1">
 
 ### "Till chores tear us apart: Perceived unfairness in household labor division and the risk of union dissolution among different sex couples in Germany"
@@ -53,7 +55,9 @@ This paper examines the long-run pension accumulation consequences of parental l
 ---
 
 <div class="paper-card" markdown="1">
-  <img src="/area_mode_hour_stratum.png" alt="Map of harassment risk by area, mode, hour and stratum" class="paper-image">
+  <a class="image-popup" href="/area_mode_hour_stratum.png">
+    <img src="/area_mode_hour_stratum.png" alt="Map of harassment risk by area, mode, hour and stratum" class="paper-image">
+  </a>
   <div class="paper-text" markdown="1">
 
 ### "When and where are women most at risk of harassment or assault in public transport systems? Bogotá as a Case Study"
@@ -82,6 +86,4 @@ Sexual harassment in public transport is not randomly distributed but structured
 
 - [NT 6: La descentralización en Colombia: una mirada desde las diferencias regionales y las capacidades institucionales / Decentralization in Colombia: a view from regional differences and institutional capacities — with Celina Gaitán](https://publicaciones.fundacioninterra.org/documentos_interra/nt-6-la-descentralizacion-en-colombia-una-mirada-desde-las-diferencias-regionales-y-las-capacidades-institucionales/)
 
-- [NT 7: Índice de Inclusión Laboral Poblacional-INLAP / Labor Inclusion Index — with Paola Vanegas, Camila Espinosa and Eduard Arias](https://publicaciones.fundacioninterra.org/documentos_interra/nt-7-indice-de-inclusion-laboral-poblacional-inlap-2/): The Interra Foundation developed the Labor Inclusion Index for the Colombian Population (INLAP) as the first comprehensive tool to diagnose and measure labor inclusion in Colombia. It addresses structural barriers that prevent vulnerable groups from accessing quality education, job intermediation, and formal employment opportunities.ers that prevent vulnerable groups from accessing quality education, job intermediation, and formal employment opportunities.
-
-
+- [NT 7: Índice de Inclusión Laboral Poblacional-INLAP / Labor Inclusion Index — with Paola Vanegas, Camila Espinosa and Eduard Arias](https://publicaciones.fundacioninterra.org/documentos_interra/nt-7-indice-de-inclusion-laboral-poblacional-inlap-2/): The Interra Foundation developed the Labor Inclusion Index for the Colombian Population (INLAP) as the first comprehensive tool to diagnose and measure labor inclusion in Colombia. It addresses structural barriers that prevent vulnerable groups from accessing quality education, job intermediation, and formal employment opportunities.
