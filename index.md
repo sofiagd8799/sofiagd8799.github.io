@@ -9,21 +9,6 @@ header:
   overlay_color: "#14213d"
   overlay_image: /assets/images/hero-abstract.jpg
   overlay_filter: "0.4"
-  actions:
-    - label: "<i class='fa-brands fa-linkedin-in' aria-label='LinkedIn'></i>"
-      url: "https://www.linkedin.com/in/sofia-garcia-durrer/"
-    - label: "<i class='fa-brands fa-github' aria-label='GitHub'></i>"
-      url: "https://github.com/sofiagd8799"
-    - label: "<i class='fa-brands fa-bluesky'></i> Bluesky"
-      url: "https://bsky.app/profile/sofiagarciadurrer.bsky.social"
-    - label: "<i class='ai ai-orcid'></i> ORCID"
-      url: "https://orcid.org/0009-0003-2916-3989"
-    - label: "<i class='ai ai-google-scholar'></i> Scholar"
-      url: "https://scholar.google.com/citations?user=4YyuWeoAAAAJ&hl=de"
-    - label: "<i class='ai ai-researchgate'></i> ResearchGate"
-      url: "https://www.researchgate.net/profile/Sofia-Garcia-Durrer"
-    - label: "<i class='fa-regular fa-envelope'></i> Email"
-      url: "mailto:s.garcia-durrer@phd.hertie-school.org"
 ---
 
 ## About
@@ -46,6 +31,22 @@ Outside of work, I'm passionate about photography: portraits, street life, and l
 
 {: .clear}
 
+  actions:
+    - label: "<i class='fa-brands fa-linkedin-in' aria-label='LinkedIn'></i>"
+      url: "https://www.linkedin.com/in/sofia-garcia-durrer/"
+    - label: "<i class='fa-brands fa-github' aria-label='GitHub'></i>"
+      url: "https://github.com/sofiagd8799"
+    - label: "<i class='fa-brands fa-bluesky'></i> Bluesky"
+      url: "https://bsky.app/profile/sofiagarciadurrer.bsky.social"
+    - label: "<i class='ai ai-orcid'></i> ORCID"
+      url: "https://orcid.org/0009-0003-2916-3989"
+    - label: "<i class='ai ai-google-scholar'></i> Scholar"
+      url: "https://scholar.google.com/citations?user=4YyuWeoAAAAJ&hl=de"
+    - label: "<i class='ai ai-researchgate'></i> ResearchGate"
+      url: "https://www.researchgate.net/profile/Sofia-Garcia-Durrer"
+    - label: "<i class='fa-regular fa-envelope'></i> Email"
+      url: "mailto:s.garcia-durrer@phd.hertie-school.org"
+      
 ## My research interests
 
 My research sits at the intersection of social family demography, gender and (micro-)economics, social and family policy, and social inequality, with computational social science as a methodological toolkit. At its core is a simple question: how do family formation, care work, and labor market participation intertwine across the life course? Public policy plays a central role here, shaping the division of labor within households and couples' decisions about care and employment throughout the life-course. Using a range of quantitative methods, I trace how this division of labor shapes partners' demographic and economic trajectories — separation and divorce, career progression, fertility — and how policy can widen or narrow the resulting gender gaps in labor market security. I am also increasingly interested in how these household dynamics intersect with gender-based violence, and in the demographic conditions — economic dependency, relationship dissolution, care burdens — that shape individuals' exposure to it. More broadly, I am interested in how large-scale disruptions such as war and displacement reshape family life, from separation and union dissolution to fertility responses.
