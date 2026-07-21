@@ -10,9 +10,9 @@ header:
   overlay_image: /assets/images/hero-abstract.jpg
   overlay_filter: "0.4"
   actions:
-    - label: "<i class='fa-brands fa-linkedin-in'></i> LinkedIn"
+    - label: "<i class='fa-brands fa-linkedin-in'></i> "
       url: "https://www.linkedin.com/in/sofia-garcia-durrer/"
-    - label: "<i class='fa-brands fa-github'></i> GitHub"
+    - label: "<i class='fa-brands fa-github'></i> "
       url: "https://github.com/sofiagd8799"
     - label: "<i class='fa-brands fa-bluesky'></i> Bluesky"
       url: "https://bsky.app/profile/sofiagarciadurrer.bsky.social"
