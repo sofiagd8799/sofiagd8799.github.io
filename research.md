@@ -13,6 +13,11 @@ sidebar:
 Here you can find my publications: 
 
 ## Working Papers
+
+<div class="paper-card">
+  <img src="/assets/Rplot01.png" alt="Illustration for household labor paper" class="paper-image">
+  <div class="paper-text">
+    
 ### "Till chores tear us apart: Perceived unfairness in household labor division and the risk of union dissolution among different sex couples in Germany"
 **with Tabea Naujoks (University of Rostock) and Heike Trappe (University of Rostock) — 2026**
 *In Preparation*
@@ -39,6 +44,10 @@ This paper examines the long-run pension accumulation consequences of parental l
 
 ---
 
+<div class="paper-card">
+  <img src="/assets/area_mode_hour_stratum.png" alt="Illustration for household labor paper" class="paper-image">
+  <div class="paper-text">
+    
 ### "When and where are women most at risk of harassment or assault in public transport systems? Bogotá as a Case Study"
 **with Isabella Urbano-Trujillo — 2026**
 *In Preparation*
