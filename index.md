@@ -9,6 +9,21 @@ header:
   overlay_color: "#14213d"
   overlay_image: /assets/images/hero-abstract.jpg
   overlay_filter: "0.4"
+  actions:
+    - label: "<i class='fa-brands fa-linkedin-in'></i> LinkedIn"
+      url: "https://www.linkedin.com/in/sofia-garcia-durrer/"
+    - label: "<i class='fa-brands fa-github'></i> GitHub"
+      url: "https://github.com/sofiagd8799"
+    - label: "<i class='fa-brands fa-bluesky'></i> Bluesky"
+      url: "https://bsky.app/profile/sofiagarciadurrer.bsky.social"
+    - label: "<i class='ai ai-orcid'></i> ORCID"
+      url: "https://orcid.org/0009-0003-2916-3989"
+    - label: "<i class='ai ai-google-scholar'></i> Scholar"
+      url: "https://scholar.google.com/citations?user=4YyuWeoAAAAJ&hl=de"
+    - label: "<i class='ai ai-researchgate'></i> ResearchGate"
+      url: "https://www.researchgate.net/profile/Sofia-Garcia-Durrer"
+    - label: "<i class='fa-regular fa-envelope'></i> Email"
+      url: "mailto:s.garcia-durrer@phd.hertie-school.org"
 ---
 
 ## About
@@ -25,9 +40,9 @@ coordinated by the Department of Social Sciences at
 I am Colombian–Swiss and based in Germany. Currently living in Berlin, I focus my research on Europe and Latin America.
 I am particularly interested in projects at the intersection of academic research and policy implementation or evaluation,
 and I would be glad to contribute or share insights from my (upcoming) research on initiatives with a strong practical application.
-Feel free to [get in touch](mailto:s.garcia-durrer@phd.hertie-school.org) if you’d like to connect or explore potential collaborations.
+Feel free to [get in touch](mailto:s.garcia-durrer@phd.hertie-school.org) if you'd like to connect or explore potential collaborations.
 
-Outside of work, I’m passionate about photography: portraits, street life, and landscapes are my main focus. I often combine photography with hiking, chasing the kinds of views that make the effort worthwhile. I also love reading, and I share reflections on both photography and books [here](/hobbies/).
+Outside of work, I'm passionate about photography: portraits, street life, and landscapes are my main focus. I often combine photography with hiking, chasing the kinds of views that make the effort worthwhile. I also love reading, and I share reflections on both photography and books [here](/hobbies/).
 
 {: .clear}
 
@@ -37,45 +52,6 @@ My research sits at the intersection of social family demography, gender and (mi
 
 My main PhD supervisor is [Prof. Dr. Michaela Kreyenfeld](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/kreyenfeld) (Hertie School, Berlin).
 
----
-## Connect
-<div class="grid__wrapper connect-grid">
-<div class="archive__item">
-<h3><span class="icon-badge icon-linkedin"><i class="fa-brands fa-linkedin-in"></i></span>LinkedIn</h3>
-<p>Professional updates and academic network.</p>
-<p><a href="https://www.linkedin.com/in/sofia-garcia-durrer/">View Profile →</a></p>
-</div>
-<div class="archive__item">
-<h3><span class="icon-badge icon-github"><i class="fa-brands fa-github"></i></span>GitHub</h3>
-<p>Research code and academic projects.</p>
-<p><a href="https://github.com/sofiagd8799">Visit GitHub →</a></p>
-</div>
-<div class="archive__item">
-<h3><span class="icon-badge icon-bluesky"><i class="fa-brands fa-bluesky"></i></span>Bluesky</h3>
-<p>Research thoughts and academic discussions.</p>
-<p><a href="https://bsky.app/profile/sofiagarciadurrer.bsky.social">Follow on Bluesky →</a></p>
-</div>
-<div class="archive__item">
-<h3><span class="icon-badge icon-orcid"><i class="ai ai-orcid"></i></span>ORCID</h3>
-<p>Verified researcher record and full publication list.</p>
-<p><a href="https://orcid.org/0009-0003-2916-3989">View ORCID →</a></p>
-</div>
-<div class="archive__item">
-<h3><span class="icon-badge icon-scholar"><i class="ai ai-google-scholar"></i></span>Google Scholar</h3>
-<p>Citations, h-index, and indexed publications.</p>
-<p><a href="https://scholar.google.com/citations?user=4YyuWeoAAAAJ&hl=de">View Profile →</a></p>
-</div>
-<div class="archive__item">
-<h3><span class="icon-badge icon-rgate"><i class="ai ai-researchgate"></i></span>ResearchGate</h3>
-<p>Preprints, working papers, and full-text uploads.</p>
-<p><a href="https://www.researchgate.net/profile/Sofia-Garcia-Durrer">View Profile →</a></p>
-</div>
-<div class="archive__item">
-<h3><span class="icon-badge icon-email"><i class="fa-regular fa-envelope"></i></span>Email</h3>
-<p>For collaborations, research inquiries, or teaching matters.</p>
-<p><a href="mailto:s.garcia-durrer@phd.hertie-school.org">Send Email →</a></p>
-</div>
-</div>
 ---
 
 ## Education
@@ -115,7 +91,6 @@ During the first year of my PhD, I presented my research at several conferences 
   [Conference page and Award Announcement](https://www.freda-panel.de/FReDA/DE/News-Termine/FReDA-Nutzerkonferenz/freda-nutzerkonferenz-2025.html)
 
 - **FREDA Autumn School** — Participant  
-
 
 ---
 
