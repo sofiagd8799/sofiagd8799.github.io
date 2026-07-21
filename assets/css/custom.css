@@ -20,7 +20,9 @@
 /* Minimal Mistakes reserves a sidebar column by default even when
    no sidebar is present, which pushes content off-center. This
    forces the main column to take the full page width so our
-   max-width + auto margins below actually center on the viewport. */
+   max-width + auto margins below actually center on the viewport.
+   NOTE: both sides (left AND right) are reset here — resetting
+   only one side is what caused the asymmetric shift before. */
 .page,
 .initial-content,
 #main {
@@ -28,7 +30,9 @@
   width: 100% !important;
   max-width: 100% !important;
   margin-left: 0 !important;
+  margin-right: 0 !important;
   padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 
 .page__content,
@@ -261,9 +265,13 @@ a:hover {
 /* ---- 9. Working paper cards (Research page) ---- */
 /* Wrap each paper's heading + author line + abstract in:
      <div class="paper-card">
-       <img src="/assets/images/paper-name.jpg" alt="..." class="paper-image">
+       <a class="image-popup" href="/assets/images/paper-name.jpg">
+         <img src="/assets/images/paper-name.jpg" alt="..." class="paper-image">
+       </a>
        <div class="paper-text"> ...existing ### heading, authors, Abstract... </div>
      </div>
+   The theme's own Magnific Popup lightbox (already bundled) picks up
+   any <a class="image-popup"> automatically — no extra JS needed.
    See the HTML snippet for a ready-made version. */
 
 .paper-card {
@@ -279,13 +287,48 @@ a:hover {
   border-bottom: none;
 }
 
-.paper-image {
+.paper-card .image-popup {
+  display: block;
   flex: 0 0 220px;
+  position: relative;
+}
+
+.paper-image {
   width: 220px;
   height: 220px;
   object-fit: cover;
   border-radius: 8px;
   box-shadow: 0 6px 18px rgba(43, 38, 34, 0.12);
+  cursor: zoom-in;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.paper-card .image-popup:hover .paper-image {
+  transform: scale(1.03);
+  box-shadow: 0 10px 26px rgba(43, 38, 34, 0.22);
+}
+
+/* small "expand" hint icon on hover, so it's obvious the image opens larger */
+.paper-card .image-popup::after {
+  content: "\26F6"; /* enlarge glyph */
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 26px;
+  height: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(43, 38, 34, 0.55);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 0.85rem;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.paper-card .image-popup:hover::after {
+  opacity: 1;
 }
 
 .paper-text {
@@ -302,10 +345,14 @@ a:hover {
     flex-direction: column;
   }
 
+  .paper-card .image-popup {
+    flex: none;
+    width: 100%;
+  }
+
   .paper-image {
     width: 100%;
     height: 200px;
-    flex: none;
   }
 }
 
@@ -314,8 +361,10 @@ a:hover {
    in the front matter — no markup needed here, just styling. */
 
 /* Academicons is not bundled with the theme, but ORCID / Google
-   Scholar / ResearchGate icons need it. Load it here. */
-@import url('https://cdn.jsdelivr.net/npm/academicons@1.9.4/css/academicons.min.css');
+   Scholar / ResearchGate icons need it. Load it here.
+   NOTE: 1.9.5 — 1.9.4 does not exist on the CDN and 404s silently,
+   which is why those three icons were missing before. */
+@import url('https://cdn.jsdelivr.net/npm/academicons@1.9.5/css/academicons.min.css');
 
 .page__hero-actions {
   display: flex;
