@@ -10,9 +10,9 @@ header:
   overlay_image: /assets/images/hero-abstract.jpg
   overlay_filter: "0.4"
   actions:
-    - label: "<i class='fa-brands fa-linkedin-in'></i> "
+    - label: "<i class='fa-brands fa-linkedin-in' aria-label='LinkedIn'></i>"
       url: "https://www.linkedin.com/in/sofia-garcia-durrer/"
-    - label: "<i class='fa-brands fa-github'></i> "
+    - label: "<i class='fa-brands fa-github' aria-label='GitHub'></i>"
       url: "https://github.com/sofiagd8799"
     - label: "<i class='fa-brands fa-bluesky'></i> Bluesky"
       url: "https://bsky.app/profile/sofiagarciadurrer.bsky.social"
@@ -105,4 +105,5 @@ During the first year of my PhD, I presented my research at several conferences 
 ---
 
 © 2026 Sofía García Durrer · Powered by **Jekyll** & **AcademicPages** (Minimal Mistakes).  
+*Last updated: 2026-02-15*stakes).  
 *Last updated: 2026-02-15*
