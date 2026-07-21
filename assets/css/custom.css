@@ -12,6 +12,61 @@
    in the <head>, so no other config changes are needed.
    ============================================================ */
 
+/* ---- 0. Narrower column + extra color accents ---- */
+/* Keeps the original floated-photo layout, just tightens the width
+   and adds a few more accent colors throughout the page. */
+
+.page__content,
+.page__title,
+.page__lead {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  float: none !important;
+  width: 100% !important;
+}
+
+:root {
+  --accent-2: #c98a4b;   /* warm terracotta */
+  --accent-3: #4a7c6f;   /* muted teal */
+  --accent-4: #b25b6b;   /* dusty rose */
+}
+
+/* colored rule under the name, instead of plain grey */
+.page__title + p,
+.page__lead {
+  border-bottom: 2px solid var(--accent-2);
+}
+
+/* alternate accent colors per section heading, in order of appearance */
+h2:nth-of-type(3n+1) { border-top-color: var(--accent);   }
+h2:nth-of-type(3n+2) { border-top-color: var(--accent-2); }
+h2:nth-of-type(3n+3) { border-top-color: var(--accent-3); }
+
+h2 {
+  border-top-width: 2px;
+}
+
+/* give each connect-card a different accent color for its link/border */
+.connect-card:nth-of-type(6n+1) { border-left: 3px solid var(--accent);   }
+.connect-card:nth-of-type(6n+2) { border-left: 3px solid var(--accent-2); }
+.connect-card:nth-of-type(6n+3) { border-left: 3px solid var(--accent-3); }
+.connect-card:nth-of-type(6n+4) { border-left: 3px solid var(--accent-4); }
+.connect-card:nth-of-type(6n+5) { border-left: 3px solid var(--accent);   }
+.connect-card:nth-of-type(6n+6) { border-left: 3px solid var(--accent-2); }
+
+.connect-card:nth-of-type(6n+1) a { color: var(--accent);   border-bottom-color: var(--accent); }
+.connect-card:nth-of-type(6n+2) a { color: var(--accent-2); border-bottom-color: var(--accent-2); }
+.connect-card:nth-of-type(6n+3) a { color: var(--accent-3); border-bottom-color: var(--accent-3); }
+.connect-card:nth-of-type(6n+4) a { color: var(--accent-4); border-bottom-color: var(--accent-4); }
+.connect-card:nth-of-type(6n+5) a { color: var(--accent);   border-bottom-color: var(--accent); }
+.connect-card:nth-of-type(6n+6) a { color: var(--accent-2); border-bottom-color: var(--accent-2); }
+
+/* soft color wash behind the "About" photo/intro block */
+.page__content {
+  background: linear-gradient(180deg, #faf3ee 0%, transparent 260px);
+}
+
 /* ---- 1. Fonts ---- */
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400&family=Inter:wght@400;500&display=swap');
 
@@ -114,9 +169,12 @@ a:hover {
 
 .connect-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1.25rem;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 1rem;
   margin: 1.5rem 0 2.5rem 0;
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .connect-card {
