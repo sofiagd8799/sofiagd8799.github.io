@@ -10,7 +10,21 @@
 
    Minimal Mistakes automatically includes _includes/head/custom.html
    in the <head>, so no other config changes are needed.
+
+   IMPORTANT: all @import rules must come first, before any other
+   CSS rule — that's a CSS spec requirement, not a style choice.
+   An @import placed after other rules is silently ignored by
+   strict parsers. Everything needed (fonts, Font Awesome 6.7.2
+   for the Bluesky icon, Academicons 1.9.5 for ORCID/Scholar/
+   ResearchGate) is imported right here, so you don't need to
+   touch _includes/head/custom.html at all — the old broken
+   links there (FA 6.5.1, academicons 1.9.4) are harmless leftover
+   network requests you can remove later, but nothing depends on them.
    ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400&family=Inter:wght@400;500&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/css/all.min.css');
+@import url('https://cdn.jsdelivr.net/npm/academicons@1.9.5/css/academicons.min.css');
 
 /* ---- 0. Balanced column width + extra color accents ---- */
 /* Keeps the original floated-photo layout, just brings the width
@@ -87,7 +101,6 @@ h2 {
 }
 
 /* ---- 1. Fonts ---- */
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400&family=Inter:wght@400;500&display=swap');
 
 :root {
   --serif: 'Fraunces', Georgia, serif;
@@ -358,13 +371,9 @@ a:hover {
 
 /* ---- 10. Connect items inside the hero box ---- */
 /* Rendered automatically by Minimal Mistakes from header.actions
-   in the front matter — no markup needed here, just styling. */
-
-/* Academicons is not bundled with the theme, but ORCID / Google
-   Scholar / ResearchGate icons need it. Load it here.
-   NOTE: 1.9.5 — 1.9.4 does not exist on the CDN and 404s silently,
-   which is why those three icons were missing before. */
-@import url('https://cdn.jsdelivr.net/npm/academicons@1.9.5/css/academicons.min.css');
+   in the front matter — no markup needed here, just styling.
+   (Academicons and Font Awesome imports are consolidated at the
+   very top of this file — see the note there.) */
 
 .page__hero-actions {
   display: flex;
