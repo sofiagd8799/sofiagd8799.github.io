@@ -105,5 +105,4 @@ During the first year of my PhD, I presented my research at several conferences 
 ---
 
 © 2026 Sofía García Durrer · Powered by **Jekyll** & **AcademicPages** (Minimal Mistakes).  
-*Last updated: 2026-02-15*stakes).  
 *Last updated: 2026-02-15*
