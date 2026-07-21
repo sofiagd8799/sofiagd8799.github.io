@@ -12,14 +12,15 @@
    in the <head>, so no other config changes are needed.
    ============================================================ */
 
-/* ---- 0. Narrower column + extra color accents ---- */
-/* Keeps the original floated-photo layout, just tightens the width
-   and adds a few more accent colors throughout the page. */
+/* ---- 0. Balanced column width + extra color accents ---- */
+/* Keeps the original floated-photo layout, just brings the width
+   in from full-bleed to a comfortable reading measure, and adds a
+   few more accent colors throughout the page. */
 
 .page__content,
 .page__title,
 .page__lead {
-  max-width: 700px;
+  max-width: 900px;
   margin-left: auto;
   margin-right: auto;
   float: none !important;
@@ -169,10 +170,10 @@ a:hover {
 
 .connect-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.25rem;
   margin: 1.5rem 0 2.5rem 0;
-  max-width: 680px;
+  max-width: 900px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -241,4 +242,89 @@ a:hover {
   font-family: var(--sans);
   color: #948b81;
   border-top: 1px solid var(--rule);
+}
+
+/* ---- 9. Working paper cards (Research page) ---- */
+/* Wrap each paper's heading + author line + abstract in:
+     <div class="paper-card">
+       <img src="/assets/images/paper-name.jpg" alt="..." class="paper-image">
+       <div class="paper-text"> ...existing ### heading, authors, Abstract... </div>
+     </div>
+   See the HTML snippet for a ready-made version. */
+
+.paper-card {
+  display: flex;
+  gap: 1.75rem;
+  align-items: flex-start;
+  margin: 2.5rem 0;
+  padding-bottom: 2.5rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.paper-card:last-of-type {
+  border-bottom: none;
+}
+
+.paper-image {
+  flex: 0 0 220px;
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(43, 38, 34, 0.12);
+}
+
+.paper-text {
+  flex: 1;
+  min-width: 0; /* prevents flex overflow on long titles */
+}
+
+.paper-text h3 {
+  margin-top: 0;
+}
+
+@media (max-width: 700px) {
+  .paper-card {
+    flex-direction: column;
+  }
+
+  .paper-image {
+    width: 100%;
+    height: 200px;
+    flex: none;
+  }
+}
+
+/* ---- 10. Connect items inside the hero box ---- */
+/* Rendered automatically by Minimal Mistakes from header.actions
+   in the front matter — no markup needed here, just styling. */
+
+.page__hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.page__hero-actions .btn {
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  color: #fff;
+  font-family: var(--sans);
+  font-size: 0.88rem;
+  font-weight: 500;
+  padding: 0.5rem 1.1rem;
+  border-radius: 999px;
+  transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.page__hero-actions .btn i {
+  margin-right: 0.4rem;
+}
+
+.page__hero-actions .btn:hover {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: #fff;
+  color: #fff;
 }
