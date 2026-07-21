@@ -12,10 +12,6 @@ sidebar:
 
 Here you can find my publications: 
 
-### Working Papers:
-
-![Working Paper](https://img.shields.io/badge/Working%20Paper-blue)
-
 ## Working Papers
 ### "Till chores tear us apart: Perceived unfairness in household labor division and the risk of union dissolution among different sex couples in Germany"
 **with Tabea Naujoks (University of Rostock) and Heike Trappe (University of Rostock) — 2026**
