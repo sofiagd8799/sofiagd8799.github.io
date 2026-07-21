@@ -9,21 +9,6 @@ header:
   overlay_color: "#14213d"
   overlay_image: /assets/images/hero-abstract.jpg
   overlay_filter: "0.4"
-  actions:
-    - label: "<i class='fa-brands fa-linkedin-in' aria-label='LinkedIn'></i>"
-      url: "https://www.linkedin.com/in/sofia-garcia-durrer/"
-    - label: "<i class='fa-brands fa-github' aria-label='GitHub'></i>"
-      url: "https://github.com/sofiagd8799"
-    - label: "<i class='fa-brands fa-bluesky'></i> Bluesky"
-      url: "https://bsky.app/profile/sofiagarciadurrer.bsky.social"
-    - label: "<i class='ai ai-orcid'></i> ORCID"
-      url: "https://orcid.org/0009-0003-2916-3989"
-    - label: "<i class='ai ai-google-scholar'></i> Scholar"
-      url: "https://scholar.google.com/citations?user=4YyuWeoAAAAJ&hl=de"
-    - label: "<i class='ai ai-researchgate'></i> ResearchGate"
-      url: "https://www.researchgate.net/profile/Sofia-Garcia-Durrer"
-    - label: "<i class='fa-regular fa-envelope'></i> Email"
-      url: "mailto:s.garcia-durrer@phd.hertie-school.org"
 ---
 
 ## About
