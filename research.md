@@ -87,7 +87,7 @@ Sexual harassment in public transport is not randomly distributed but structured
 - [NT 6: La descentralización en Colombia: una mirada desde las diferencias regionales y las capacidades institucionales / Decentralization in Colombia: a view from regional differences and institutional capacities — with Celina Gaitán](https://publicaciones.fundacioninterra.org/documentos_interra/nt-6-la-descentralizacion-en-colombia-una-mirada-desde-las-diferencias-regionales-y-las-capacidades-institucionales/)
 
 <div class="paper-card" markdown="1">
-  <a class="image-popup" href="mapa.jpg.png">
+  <a class="image-popup" href="/mapa.jpg.png">
     <img src="/mapa.jpg.png" alt="Map" class="paper-image">
   </a>
   <div class="paper-text" markdown="1">
