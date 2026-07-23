@@ -90,4 +90,8 @@ Sexual harassment in public transport is not randomly distributed but structured
 
 ### Other 
 
-- Análisis y propuestas de mejora del instrumento de promoción de Unidades de Apropiación Social del Conocimiento en las Instituciones de Educación Superior en Colombia / Analysis and Improvement Proposals for the Promotion Instrument of Social Appropriation of Knowledge Units in Higher Education Institutions in Colombia - [UNESCO Technical] Document](https://unesdoc.unesco.org/ark:/48223/pf0000398079) - with , Verónica Orellana-Navarrete, Ramón Álvarez-Torres Sofía Ñaña and Marilyn Garzón.
+- Análisis y propuestas de mejora del instrumento de promoción de Unidades de Apropiación Social del Conocimiento en las Instituciones de Educación Superior en Colombia / Analysis and Improvement Proposals for the Promotion Instrument of Social Appropriation of Knowledge Units in Higher Education Institutions in Colombia - UNESCO technical document co-authored with Verónica Orellana-Navarrete, Ramón Álvarez-Torres, Sofía Ñaña, and Marilyn Garzón.
+
+* [Read the document on UNESDOC](https://unesdoc.unesco.org/ark:/48223/pf0000398079)
+* [View the related UNESDOC search results](https://unesdoc.unesco.org/search/00fcdbe9-ad90-4fd3-87ae-b874e4be22bf)
+
