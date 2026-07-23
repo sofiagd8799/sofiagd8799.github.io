@@ -88,7 +88,7 @@ Sexual harassment in public transport is not randomly distributed but structured
 
 <div class="paper-card" markdown="1">
   <a class="image-popup" href="mapa.jpg.png">
-    <img src="/mapa_Inlap.jpg.png" alt="Map" class="paper-image">
+    <img src="/mapa.jpg.png" alt="Map" class="paper-image">
   </a>
   <div class="paper-text" markdown="1">
     
